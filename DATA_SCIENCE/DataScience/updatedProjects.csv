@@ -1,0 +1,2001 @@
+,userId,projectName,totalHoursWorked,techUsed,performance,Domain
+0,6612382ec478ba97b06a6c5d,TechTerra,106,Power BI,good,Data
+1,6612382ec478ba97b06a6c5d,StackForge,100,Python,good,Data
+2,6612382ec478ba97b06a6c5e,InsightStack,144,AWS Lambda,good,Full Stack
+3,6612382ec478ba97b06a6c5e,TrendTerra,73,Javascript,good,Full Stack
+4,6612382ec478ba97b06a6c5f,DataCraftsmanInsight,142,Alteryx,average,Full Stack
+5,6612382ec478ba97b06a6c5f,AnalytixPro,114,Javascript,excellent,Full Stack
+6,6612382ec478ba97b06a6c60,DataStacker,132,Power BI,excellent,Data
+7,6612382ec478ba97b06a6c60,DataMason,112,Python,excellent,Full Stack
+8,6612382ec478ba97b06a6c61,StackScope,142,AWS Lambda,average,Full Stack
+9,6612382ec478ba97b06a6c61,StackScope,52,React,excellent,Full Stack
+10,6612382ec478ba97b06a6c62,StreamBuilder,55,Tableau,good,Full Stack
+11,6612382ec478ba97b06a6c62,AnalyzeWise,50,Tableau,good,Data
+12,6612382ec478ba97b06a6c63,DataDriven,64,Snowflake,average,Full Stack
+13,6612382ec478ba97b06a6c63,PixelPulse,127,Power BI,good,Data
+14,6612382ec478ba97b06a6c64,InsightBuilder,134,Python,average,Full Stack
+15,6612382ec478ba97b06a6c64,ByteBlast,64,Python,good,Full Stack
+16,6612382ec478ba97b06a6c65,CodeCrafter,131,AWS Lambda,good,Data
+17,6612382ec478ba97b06a6c65,DataFlowX,115,Snowflake,average,Data
+18,6612382ec478ba97b06a6c66,StackScope,98,Javascript,good,Full Stack
+19,6612382ec478ba97b06a6c66,PipelinePro,112,React,good,Full Stack
+20,6612382fc478ba97b06a6c67,AppAlchemy,124,Angular,good,Data
+21,6612382fc478ba97b06a6c67,Insightify,88,Javascript,good,Data
+22,6612382fc478ba97b06a6c68,ByteBridgeX,89,Alteryx,average,Data
+23,6612382fc478ba97b06a6c68,TechTrek,81,Power BI,excellent,Full Stack
+24,6612382fc478ba97b06a6c69,AnalyzeRight,133,SQL,good,Full Stack
+25,6612382fc478ba97b06a6c69,StackStream,145,Angular,excellent,Data
+26,6612382fc478ba97b06a6c6a,FullTrendTrack,136,SQL,good,Full Stack
+27,6612382fc478ba97b06a6c6a,ETLGenius,57,AWS Lambda,average,Data
+28,6612382fc478ba97b06a6c6b,DataForge,60,Alteryx,average,Full Stack
+29,6612382fc478ba97b06a6c6b,StreamSculpt,97,Javascript,average,Full Stack
+30,6612382fc478ba97b06a6c6c,StackSpotter,91,ADF,good,Full Stack
+31,6612382fc478ba97b06a6c6c,Insightify,75,Javascript,good,Data
+32,6612382fc478ba97b06a6c6d,FullStackInsight,60,Tableau,excellent,Full Stack
+33,6612382fc478ba97b06a6c6d,AnalyzeByte,111,SQL,average,Data
+34,6612382fc478ba97b06a6c6e,CodeCompass,72,SQL,excellent,Data
+35,6612382fc478ba97b06a6c6e,DataDynamo,143,AWS Lambda,good,Full Stack
+36,6612382fc478ba97b06a6c6f,DataCraftsmanInsight,143,SQL,average,Data
+37,6612382fc478ba97b06a6c6f,DataForge,135,SQL,good,Full Stack
+38,6612382fc478ba97b06a6c70,DataSavvyStack,112,SQL,excellent,Data
+39,6612382fc478ba97b06a6c70,DataNexus,80,Angular,average,Full Stack
+40,6612382fc478ba97b06a6c71,FullDataInsight,74,Angular,average,Full Stack
+41,6612382fc478ba97b06a6c71,InsightStreamX,111,React,good,Data
+42,6612382fc478ba97b06a6c72,CodeCraftsmanX,80,React,good,Data
+43,6612382fc478ba97b06a6c72,StackSpotter,129,Alteryx,good,Full Stack
+44,6612382fc478ba97b06a6c73,StackSpotter,61,ADF,excellent,Data
+45,6612382fc478ba97b06a6c73,DataCraftsman,106,Tableau,average,Data
+46,6612382fc478ba97b06a6c74,InsightBuilder,92,ADF,excellent,Full Stack
+47,6612382fc478ba97b06a6c74,AnalyticaPro,90,AWS Lambda,average,Full Stack
+48,6612382fc478ba97b06a6c75,AnalyzeAll,51,React,average,Full Stack
+49,6612382fc478ba97b06a6c75,StackSpotter,90,Tableau,average,Full Stack
+50,6612382fc478ba97b06a6c76,PixelPioneer,78,Javascript,excellent,Full Stack
+51,6612382fc478ba97b06a6c76,StreamStack,61,Alteryx,good,Full Stack
+52,6612382fc478ba97b06a6c77,FlowFlex,81,Angular,good,Data
+53,6612382fc478ba97b06a6c77,DataStacker,102,ADF,good,Data
+54,6612382fc478ba97b06a6c78,DataWarp,116,ADF,average,Full Stack
+55,6612382fc478ba97b06a6c78,StreamSavvy,118,Javascript,good,Data
+56,6612382fc478ba97b06a6c79,DataScope,87,Snowflake,good,Full Stack
+57,6612382fc478ba97b06a6c79,FullDataNexus,99,Python,average,Full Stack
+58,6612382fc478ba97b06a6c7a,FullStackInsight,143,Python,average,Data
+59,6612382fc478ba97b06a6c7a,WebWizardry,98,Snowflake,excellent,Data
+60,6612382fc478ba97b06a6c7b,AnalyzeAll,95,React,average,Full Stack
+61,6612382fc478ba97b06a6c7b,InsightStream,129,Python,excellent,Full Stack
+62,66123830c478ba97b06a6c7c,DataMason,123,Javascript,average,Full Stack
+63,66123830c478ba97b06a6c7c,ETLArchitect,53,Python,good,Full Stack
+64,66123830c478ba97b06a6c7d,FullInsightForge,133,Angular,good,Full Stack
+65,66123830c478ba97b06a6c7d,PipelinePioneer,92,Alteryx,excellent,Data
+66,66123830c478ba97b06a6c7e,CodeCrafter,126,Angular,excellent,Data
+67,66123830c478ba97b06a6c7e,ETLGenius,127,Python,good,Full Stack
+68,66123830c478ba97b06a6c7f,DataStack,70,React,good,Full Stack
+69,66123830c478ba97b06a6c7f,WebWarp,144,Python,average,Data
+70,66123830c478ba97b06a6c80,DataTrekker,70,ADF,excellent,Data
+71,66123830c478ba97b06a6c80,DataSavvyInsight,86,ADF,average,Data
+72,66123830c478ba97b06a6c81,CodeCanvas,72,ADF,good,Full Stack
+73,66123830c478ba97b06a6c81,FlowForge,135,Tableau,average,Data
+74,66123830c478ba97b06a6c82,DataPulse,113,AWS Lambda,excellent,Data
+75,66123830c478ba97b06a6c82,FullInsightForge,102,React,excellent,Data
+76,66123830c478ba97b06a6c83,InsightGenius,93,SQL,good,Data
+77,66123830c478ba97b06a6c83,ByteBlast,121,Tableau,good,Full Stack
+78,66123830c478ba97b06a6c84,StackSavvy,115,Angular,average,Full Stack
+79,66123830c478ba97b06a6c84,DataPulse,145,React,average,Data
+80,66123830c478ba97b06a6c85,DataScope,117,ADF,average,Data
+81,66123830c478ba97b06a6c85,StreamSculpt,67,Tableau,good,Full Stack
+82,66123830c478ba97b06a6c86,TrendTerra,50,Python,good,Data
+83,66123830c478ba97b06a6c86,DataDriven,119,AWS Lambda,average,Data
+84,66123830c478ba97b06a6c87,CodeCraftsmanX,95,SQL,good,Full Stack
+85,66123830c478ba97b06a6c87,CodeCrafter,126,Javascript,good,Full Stack
+86,66123830c478ba97b06a6c88,PipelinePioneer,137,Tableau,average,Data
+87,66123830c478ba97b06a6c88,AnalyzeRight,137,Python,good,Full Stack
+88,66123830c478ba97b06a6c89,ByteBridge,141,SQL,excellent,Full Stack
+89,66123830c478ba97b06a6c89,ByteBridgeData,96,Power BI,good,Data
+90,66123830c478ba97b06a6c8a,TechTerra,78,Power BI,good,Full Stack
+91,66123830c478ba97b06a6c8a,DataForge,50,ADF,average,Full Stack
+92,66123830c478ba97b06a6c8b,DataDynamo,93,Javascript,average,Data
+93,66123830c478ba97b06a6c8b,AnalyzeRight,140,Alteryx,excellent,Data
+94,66123831c478ba97b06a6c8c,DataSculptor,86,Snowflake,excellent,Full Stack
+95,66123831c478ba97b06a6c8c,FullStackInsight,50,AWS Lambda,excellent,Data
+96,66123831c478ba97b06a6c8d,InsightStream,126,Python,excellent,Data
+97,66123831c478ba97b06a6c8d,PixelPulse,124,Angular,excellent,Full Stack
+98,66123831c478ba97b06a6c8e,AnalyzeAll,66,Tableau,average,Data
+99,66123831c478ba97b06a6c8e,ETLGenius,69,Javascript,excellent,Data
+100,66123831c478ba97b06a6c8f,DataNexus,82,Python,average,Data
+101,66123831c478ba97b06a6c8f,FullDataForge,54,Javascript,good,Data
+102,66123831c478ba97b06a6c90,FullTrendTrack,88,Python,average,Data
+103,66123831c478ba97b06a6c90,FlowFlex,84,Python,excellent,Full Stack
+104,66123831c478ba97b06a6c91,ByteBridgeX,60,Javascript,good,Full Stack
+105,66123831c478ba97b06a6c91,TrendTerra,138,Tableau,average,Full Stack
+106,66123831c478ba97b06a6c92,DataStacker,147,AWS Lambda,average,Data
+107,66123831c478ba97b06a6c92,StreamBuilder,93,Snowflake,average,Full Stack
+108,66123831c478ba97b06a6c93,DataForge,121,AWS Lambda,excellent,Data
+109,66123831c478ba97b06a6c93,FullDataForge,125,Javascript,good,Data
+110,66123831c478ba97b06a6c94,DataSavvyInsight,134,Tableau,excellent,Full Stack
+111,66123831c478ba97b06a6c94,StackForge,137,Angular,average,Data
+112,66123831c478ba97b06a6c95,DataTrekker,74,Javascript,average,Data
+113,66123831c478ba97b06a6c95,TrendSpotter,61,AWS Lambda,good,Data
+114,66123831c478ba97b06a6c96,DataDriven,65,Angular,average,Data
+115,66123831c478ba97b06a6c96,StreamSavvy,142,Angular,good,Data
+116,66123831c478ba97b06a6c97,StackSavvy,69,Tableau,average,Data
+117,66123831c478ba97b06a6c97,InsightSavvy,111,Snowflake,excellent,Full Stack
+118,66123832c478ba97b06a6c98,DataNexus,115,Alteryx,excellent,Data
+119,66123832c478ba97b06a6c98,AnalyticsPulse,113,Angular,excellent,Full Stack
+120,66123832c478ba97b06a6c99,AnalyzeWise,84,Alteryx,average,Data
+121,66123832c478ba97b06a6c99,WebWarp,104,AWS Lambda,average,Data
+122,66123832c478ba97b06a6c9a,DataPulse,147,Python,good,Full Stack
+123,66123832c478ba97b06a6c9a,DataCraftsmanInsight,113,Power BI,excellent,Full Stack
+124,66123832c478ba97b06a6c9b,StreamSmith,126,SQL,good,Full Stack
+125,66123832c478ba97b06a6c9b,DataHorizon,122,Snowflake,good,Full Stack
+126,66123832c478ba97b06a6c9c,DataForgeX,117,Javascript,excellent,Data
+127,66123832c478ba97b06a6c9c,DataWave,91,Tableau,excellent,Full Stack
+128,66123832c478ba97b06a6c9d,DevDynamo,109,SQL,excellent,Data
+129,66123832c478ba97b06a6c9d,DataCraftsman,98,Tableau,good,Data
+130,66123832c478ba97b06a6c9e,CodeCrafter,118,React,good,Full Stack
+131,66123832c478ba97b06a6c9e,AnalyzeWise,80,Javascript,average,Full Stack
+132,66123832c478ba97b06a6c9f,StackForge,62,Tableau,good,Data
+133,66123832c478ba97b06a6c9f,StackScope,103,ADF,excellent,Data
+134,66123832c478ba97b06a6ca0,DataDevForge,126,Snowflake,average,Data
+135,66123832c478ba97b06a6ca0,FullDataForge,105,Python,average,Full Stack
+136,66123832c478ba97b06a6ca1,StreamSavvy,116,AWS Lambda,excellent,Data
+137,66123832c478ba97b06a6ca1,InsightGenius,106,Python,excellent,Full Stack
+138,66123832c478ba97b06a6ca2,TrendTerra,140,SQL,average,Data
+139,66123832c478ba97b06a6ca2,DataPulse,102,AWS Lambda,average,Data
+140,66123832c478ba97b06a6ca3,ByteBridgeX,135,ADF,average,Data
+141,66123832c478ba97b06a6ca3,DataSculptor,113,Alteryx,good,Full Stack
+142,66123832c478ba97b06a6ca4,StackScope,57,Snowflake,average,Full Stack
+143,66123832c478ba97b06a6ca4,InsightGenius,147,Snowflake,good,Data
+144,66123832c478ba97b06a6ca5,InsightBuilder,133,Alteryx,excellent,Full Stack
+145,66123832c478ba97b06a6ca5,FullInsightForge,118,Snowflake,excellent,Full Stack
+146,66123832c478ba97b06a6ca6,DataFlowX,150,Tableau,excellent,Data
+147,66123832c478ba97b06a6ca6,StreamSavvy,59,Javascript,excellent,Data
+148,66123832c478ba97b06a6ca7,StackForge,83,Tableau,excellent,Full Stack
+149,66123832c478ba97b06a6ca7,ByteBridgeData,76,AWS Lambda,good,Data
+150,66123832c478ba97b06a6ca8,StackSavvy,146,Angular,average,Data
+151,66123832c478ba97b06a6ca8,InsightStream,68,Python,good,Data
+152,66123833c478ba97b06a6ca9,ByteBridgeData,66,AWS Lambda,average,Full Stack
+153,66123833c478ba97b06a6ca9,DataTrekker,69,Javascript,good,Full Stack
+154,66123833c478ba97b06a6caa,StreamStack,86,AWS Lambda,excellent,Data
+155,66123833c478ba97b06a6caa,FlowForge,132,Alteryx,average,Full Stack
+156,66123833c478ba97b06a6cab,DevDynamo,84,Power BI,excellent,Full Stack
+157,66123833c478ba97b06a6cab,InsightForgeX,51,SQL,excellent,Data
+158,66123833c478ba97b06a6cac,ByteBridge,146,Snowflake,excellent,Data
+159,66123833c478ba97b06a6cac,FullInsightForge,125,ADF,good,Data
+160,66123833c478ba97b06a6cad,DataStacker,71,React,average,Full Stack
+161,66123833c478ba97b06a6cad,DataPulse,129,React,good,Full Stack
+162,66123833c478ba97b06a6cae,TrendSpotter,71,Tableau,average,Full Stack
+163,66123833c478ba97b06a6cae,PipelinePro,92,Javascript,average,Data
+164,66123833c478ba97b06a6caf,InsightGenius,51,AWS Lambda,average,Full Stack
+165,66123833c478ba97b06a6caf,StreamBuilder,113,Angular,good,Data
+166,66123833c478ba97b06a6cb0,AnalyzeWise,86,Javascript,excellent,Full Stack
+167,66123833c478ba97b06a6cb0,TechTrek,95,Tableau,excellent,Full Stack
+168,66123833c478ba97b06a6cb1,AnalyzeByte,98,Javascript,excellent,Full Stack
+169,66123833c478ba97b06a6cb1,DataCraftsmanX,79,React,average,Data
+170,66123833c478ba97b06a6cb2,DataFlowX,52,Power BI,good,Full Stack
+171,66123833c478ba97b06a6cb2,DataStack,75,AWS Lambda,average,Data
+172,66123833c478ba97b06a6cb3,Insightify,65,AWS Lambda,average,Data
+173,66123833c478ba97b06a6cb3,AnalyzeAll,122,ADF,excellent,Data
+174,66123833c478ba97b06a6cb4,WebWizardry,143,Angular,good,Data
+175,66123833c478ba97b06a6cb4,CodeCompass,115,SQL,good,Data
+176,66123833c478ba97b06a6cb5,DataFlowX,63,React,good,Full Stack
+177,66123833c478ba97b06a6cb5,AnalytixPro,108,Snowflake,average,Full Stack
+178,66123833c478ba97b06a6cb6,StreamStack,84,React,excellent,Full Stack
+179,66123833c478ba97b06a6cb6,PixelPulse,118,Tableau,excellent,Data
+180,66123833c478ba97b06a6cb7,FullInsightForge,125,SQL,average,Data
+181,66123833c478ba97b06a6cb7,DataWave,124,Python,good,Full Stack
+182,66123833c478ba97b06a6cb8,InsightSavvy,110,Tableau,excellent,Data
+183,66123833c478ba97b06a6cb8,FullStreamSculpt,138,Javascript,average,Data
+184,66123833c478ba97b06a6cb9,Insightify,95,Alteryx,average,Full Stack
+185,66123833c478ba97b06a6cb9,CodeCraftsman,120,Power BI,excellent,Full Stack
+186,66123833c478ba97b06a6cba,PixelPulse,132,React,good,Full Stack
+187,66123833c478ba97b06a6cba,CodeCraftsmanInsight,84,Angular,good,Data
+188,66123833c478ba97b06a6cbb,DataForge,117,Angular,average,Full Stack
+189,66123833c478ba97b06a6cbb,StackSavvy,126,Javascript,good,Full Stack
+190,66123833c478ba97b06a6cbc,PipelinePioneer,115,Power BI,good,Data
+191,66123833c478ba97b06a6cbc,StackSpotter,93,React,good,Full Stack
+192,66123833c478ba97b06a6cbd,StreamSculpt,52,Angular,excellent,Full Stack
+193,66123833c478ba97b06a6cbd,FullDataNexus,94,React,excellent,Full Stack
+194,66123833c478ba97b06a6cbe,StreamSculpt,93,Javascript,excellent,Full Stack
+195,66123833c478ba97b06a6cbe,AnalyzeStack,78,Python,excellent,Full Stack
+196,66123834c478ba97b06a6cbf,InsightForgeX,105,React,excellent,Full Stack
+197,66123834c478ba97b06a6cbf,StreamBuilder,118,Tableau,excellent,Full Stack
+198,66123834c478ba97b06a6cc0,DataCraftsman,58,Power BI,average,Full Stack
+199,66123834c478ba97b06a6cc0,TechTerra,102,Javascript,excellent,Data
+200,66123834c478ba97b06a6cc1,AppAlchemy,133,Alteryx,average,Full Stack
+201,66123834c478ba97b06a6cc1,DataStacker,64,ADF,excellent,Full Stack
+202,66123834c478ba97b06a6cc2,AnalyzeRight,139,Javascript,excellent,Full Stack
+203,66123834c478ba97b06a6cc2,StackStream,127,Snowflake,excellent,Full Stack
+204,66123834c478ba97b06a6cc3,AnalyzeAll,147,AWS Lambda,average,Data
+205,66123834c478ba97b06a6cc3,DevForge,138,Power BI,excellent,Full Stack
+206,66123834c478ba97b06a6cc4,StackSculptor,66,Alteryx,good,Data
+207,66123834c478ba97b06a6cc4,DataTrekker,96,Power BI,average,Full Stack
+208,66123834c478ba97b06a6cc5,DataForge,138,Snowflake,excellent,Data
+209,66123834c478ba97b06a6cc5,WebWeave,96,React,excellent,Data
+210,66123834c478ba97b06a6cc6,AnalyzeByte,115,Python,good,Data
+211,66123834c478ba97b06a6cc6,CodeCraftsmanData,148,Snowflake,excellent,Data
+212,66123834c478ba97b06a6cc7,AppAlchemy,68,Angular,good,Full Stack
+213,66123834c478ba97b06a6cc7,DataSavvyInsight,78,Alteryx,average,Full Stack
+214,66123834c478ba97b06a6cc8,CodeCanvas,72,Snowflake,average,Full Stack
+215,66123834c478ba97b06a6cc8,DataNexus,132,Tableau,good,Full Stack
+216,66123834c478ba97b06a6cc9,FullDataInsight,133,React,average,Full Stack
+217,66123834c478ba97b06a6cc9,DataWarp,128,Python,average,Full Stack
+218,66123834c478ba97b06a6cca,FullDataForge,120,ADF,average,Full Stack
+219,66123834c478ba97b06a6cca,FullInsightForge,98,SQL,good,Full Stack
+220,66123834c478ba97b06a6ccb,AppAlchemy,69,Javascript,good,Data
+221,66123834c478ba97b06a6ccb,DataNexus,102,AWS Lambda,good,Data
+222,66123834c478ba97b06a6ccc,DataDriven,150,Tableau,average,Full Stack
+223,66123834c478ba97b06a6ccc,ByteBridgeData,103,SQL,excellent,Full Stack
+224,66123835c478ba97b06a6ccd,DataMason,60,Tableau,average,Full Stack
+225,66123835c478ba97b06a6ccd,FullAnalytica,97,Javascript,excellent,Data
+226,66123835c478ba97b06a6cce,AnalyzeByte,64,AWS Lambda,excellent,Data
+227,66123835c478ba97b06a6cce,StackSavvy,119,React,excellent,Data
+228,66123835c478ba97b06a6ccf,DataTrekker,138,Javascript,average,Full Stack
+229,66123835c478ba97b06a6ccf,TechTrek,59,Snowflake,average,Data
+230,66123835c478ba97b06a6cd0,CodeCraftsmanX,150,Power BI,good,Full Stack
+231,66123835c478ba97b06a6cd0,ByteBridge,122,Power BI,average,Full Stack
+232,66123835c478ba97b06a6cd1,DataStack,138,AWS Lambda,excellent,Data
+233,66123835c478ba97b06a6cd1,DataDriven,56,Tableau,average,Data
+234,66123835c478ba97b06a6cd2,TechTerra,77,AWS Lambda,excellent,Full Stack
+235,66123835c478ba97b06a6cd2,StreamSavvy,61,Snowflake,good,Data
+236,66123835c478ba97b06a6cd3,CodeCanvas,90,Angular,good,Full Stack
+237,66123835c478ba97b06a6cd3,DataSavvyInsight,53,Alteryx,good,Data
+238,66123835c478ba97b06a6cd4,CodeCanvas,141,Alteryx,average,Full Stack
+239,66123835c478ba97b06a6cd4,FlowForge,71,ADF,good,Full Stack
+240,66123835c478ba97b06a6cd5,PixelForge,69,AWS Lambda,average,Full Stack
+241,66123835c478ba97b06a6cd5,AnalyticsPulse,112,ADF,good,Data
+242,66123835c478ba97b06a6cd6,InsightBuilder,79,Alteryx,average,Full Stack
+243,66123835c478ba97b06a6cd6,CodeCompass,82,Python,good,Full Stack
+244,66123835c478ba97b06a6cd7,CodeCanvas,113,Snowflake,good,Data
+245,66123835c478ba97b06a6cd7,CodeCanvas,142,SQL,good,Full Stack
+246,66123835c478ba97b06a6cd8,DataNexus,54,React,good,Full Stack
+247,66123835c478ba97b06a6cd8,TrendSpotter,114,Alteryx,average,Data
+248,66123835c478ba97b06a6cd9,DataDevForge,86,AWS Lambda,good,Data
+249,66123835c478ba97b06a6cd9,StreamSavvy,132,Alteryx,good,Full Stack
+250,66123835c478ba97b06a6cda,InsightSavvy,102,SQL,excellent,Full Stack
+251,66123835c478ba97b06a6cda,TrendTerra,70,Angular,excellent,Full Stack
+252,66123835c478ba97b06a6cdb,DataCraftsmanX,88,Power BI,good,Full Stack
+253,66123835c478ba97b06a6cdb,CodeCraftsmanX,149,Alteryx,excellent,Data
+254,66123835c478ba97b06a6cdc,DataDevForge,101,React,average,Data
+255,66123835c478ba97b06a6cdc,InsightStreamX,65,Angular,average,Data
+256,66123835c478ba97b06a6cdd,FullDataInsight,50,Tableau,average,Full Stack
+257,66123835c478ba97b06a6cdd,Insightify,57,Tableau,excellent,Data
+258,66123836c478ba97b06a6cde,DataCraftsmanInsight,135,Tableau,average,Full Stack
+259,66123836c478ba97b06a6cde,TechTerra,101,Alteryx,average,Data
+260,66123836c478ba97b06a6cdf,ByteBridgeX,51,Tableau,average,Full Stack
+261,66123836c478ba97b06a6cdf,CodeCanvas,55,Angular,good,Data
+262,66123836c478ba97b06a6ce0,DataStacker,72,ADF,average,Full Stack
+263,66123836c478ba97b06a6ce0,DataScope,121,Snowflake,average,Full Stack
+264,66123836c478ba97b06a6ce1,TechTerra,91,Snowflake,excellent,Full Stack
+265,66123836c478ba97b06a6ce1,DataVista,143,ADF,excellent,Data
+266,66123836c478ba97b06a6ce2,InsightForgeX,121,SQL,average,Data
+267,66123836c478ba97b06a6ce2,FullDataInsight,117,Tableau,good,Full Stack
+268,66123836c478ba97b06a6ce3,DataScope,148,Python,excellent,Full Stack
+269,66123836c478ba97b06a6ce3,TrendTrek,83,SQL,excellent,Data
+270,66123836c478ba97b06a6ce4,DataSculptor,128,React,average,Data
+271,66123836c478ba97b06a6ce4,FullDataInsight,141,Angular,average,Full Stack
+272,66123836c478ba97b06a6ce5,StackSavvy,136,Javascript,average,Full Stack
+273,66123836c478ba97b06a6ce5,ETLGenius,102,Power BI,good,Full Stack
+274,66123836c478ba97b06a6ce6,AnalyzeRight,105,ADF,excellent,Full Stack
+275,66123836c478ba97b06a6ce6,StackForge,56,AWS Lambda,excellent,Data
+276,66123836c478ba97b06a6ce7,DataWave,125,Python,good,Full Stack
+277,66123836c478ba97b06a6ce7,DataPulse,84,Javascript,good,Full Stack
+278,66123836c478ba97b06a6ce8,DataDynamo,125,Python,good,Data
+279,66123836c478ba97b06a6ce8,StackStream,82,React,excellent,Data
+280,66123836c478ba97b06a6ce9,DataHorizon,143,Alteryx,average,Data
+281,66123836c478ba97b06a6ce9,StackScope,113,Python,good,Full Stack
+282,66123836c478ba97b06a6cea,FlowFlex,79,Alteryx,average,Full Stack
+283,66123836c478ba97b06a6cea,DevDynamo,58,React,average,Data
+284,66123836c478ba97b06a6ceb,WebWarp,120,Power BI,excellent,Full Stack
+285,66123836c478ba97b06a6ceb,StackScope,90,Power BI,excellent,Full Stack
+286,66123836c478ba97b06a6cec,DataStack,63,AWS Lambda,good,Data
+287,66123836c478ba97b06a6cec,AnalyzeStream,112,Power BI,average,Full Stack
+288,66123836c478ba97b06a6ced,StackSavvyInsight,67,Tableau,good,Data
+289,66123836c478ba97b06a6ced,WebWeave,70,SQL,good,Data
+290,66123837c478ba97b06a6cee,CodeCraftsmanData,128,Power BI,good,Data
+291,66123837c478ba97b06a6cee,DataTrekker,51,React,average,Full Stack
+292,66123837c478ba97b06a6cef,PipelinePioneer,53,Snowflake,average,Full Stack
+293,66123837c478ba97b06a6cef,CodeCompass,80,Javascript,excellent,Full Stack
+294,66123837c478ba97b06a6cf0,ByteBridge,52,Power BI,average,Full Stack
+295,66123837c478ba97b06a6cf0,FullDataInsight,148,Javascript,good,Data
+296,66123837c478ba97b06a6cf1,ByteBridgeX,92,AWS Lambda,average,Data
+297,66123837c478ba97b06a6cf1,DataStack,143,AWS Lambda,average,Data
+298,66123837c478ba97b06a6cf2,PipelinePioneer,76,Alteryx,good,Data
+299,66123837c478ba97b06a6cf2,WebWarp,108,Alteryx,good,Data
+300,66123837c478ba97b06a6cf3,AnalyzeAll,65,SQL,excellent,Data
+301,66123837c478ba97b06a6cf3,StackSavvyInsight,144,SQL,excellent,Data
+302,66123837c478ba97b06a6cf4,AnalyzeAll,115,Snowflake,average,Full Stack
+303,66123837c478ba97b06a6cf4,ETLArchitect,131,Power BI,excellent,Data
+304,66123837c478ba97b06a6cf5,DataSavvyStack,91,SQL,good,Full Stack
+305,66123837c478ba97b06a6cf5,Insightify,50,Angular,excellent,Data
+306,66123837c478ba97b06a6cf6,AppArchitect,86,React,excellent,Full Stack
+307,66123837c478ba97b06a6cf6,FullStreamSculpt,127,SQL,excellent,Data
+308,66123837c478ba97b06a6cf7,FullStackInsight,64,Javascript,good,Full Stack
+309,66123837c478ba97b06a6cf7,DataDynamo,56,React,excellent,Full Stack
+310,66123837c478ba97b06a6cf8,DataCraftsmanInsight,119,AWS Lambda,average,Data
+311,66123837c478ba97b06a6cf8,AnalytixPro,83,ADF,good,Full Stack
+312,66123837c478ba97b06a6cf9,FullStreamSculpt,73,ADF,good,Data
+313,66123837c478ba97b06a6cf9,TrendTrek,117,Snowflake,good,Data
+314,66123837c478ba97b06a6cfa,AnalyzeAll,82,Alteryx,average,Data
+315,66123837c478ba97b06a6cfa,CodeCraftsmanData,101,React,average,Full Stack
+316,66123837c478ba97b06a6cfb,FullAnalytica,64,SQL,excellent,Data
+317,66123837c478ba97b06a6cfb,DataCraftsman,52,React,excellent,Data
+318,66123837c478ba97b06a6cfc,ETLArchitect,61,Alteryx,average,Full Stack
+319,66123837c478ba97b06a6cfc,DataByteForge,98,Javascript,average,Data
+320,66123837c478ba97b06a6cfd,PixelForge,137,React,average,Data
+321,66123837c478ba97b06a6cfd,AnalyzeWise,55,React,excellent,Full Stack
+322,66123837c478ba97b06a6cfe,DataDriven,89,Python,average,Full Stack
+323,66123837c478ba97b06a6cfe,CodeCompass,125,AWS Lambda,average,Full Stack
+324,66123837c478ba97b06a6cff,StackSavvy,149,React,average,Full Stack
+325,66123837c478ba97b06a6cff,DataForge,100,Python,good,Data
+326,66123838c478ba97b06a6d00,CodeCrafter,127,React,average,Data
+327,66123838c478ba97b06a6d00,TechTerra,122,Snowflake,good,Full Stack
+328,66123838c478ba97b06a6d01,DataSavvyInsight,67,Javascript,average,Full Stack
+329,66123838c478ba97b06a6d01,ETLArchitect,92,AWS Lambda,good,Data
+330,66123838c478ba97b06a6d02,StackStream,66,Tableau,good,Full Stack
+331,66123838c478ba97b06a6d02,TrendTrek,148,Javascript,excellent,Full Stack
+332,66123838c478ba97b06a6d03,PixelForge,133,Javascript,excellent,Full Stack
+333,66123838c478ba97b06a6d03,AnalyzeRight,59,React,good,Data
+334,66123838c478ba97b06a6d04,DataSculptor,98,SQL,excellent,Data
+335,66123838c478ba97b06a6d04,ETLGenius,122,Snowflake,average,Data
+336,66123838c478ba97b06a6d05,CodeCraftsman,121,Snowflake,excellent,Data
+337,66123838c478ba97b06a6d05,StackStream,76,Power BI,average,Full Stack
+338,66123838c478ba97b06a6d06,TechTrek,127,Tableau,good,Full Stack
+339,66123838c478ba97b06a6d06,AnalyzeWise,126,Python,good,Full Stack
+340,66123838c478ba97b06a6d07,DataCraftsmanX,51,SQL,average,Data
+341,66123838c478ba97b06a6d07,CodeCraftsmanInsight,143,Python,excellent,Data
+342,66123838c478ba97b06a6d08,DataCraftsmanInsight,53,SQL,good,Data
+343,66123838c478ba97b06a6d08,DataCraftsmanX,51,Power BI,good,Data
+344,66123838c478ba97b06a6d09,WebWeave,141,Power BI,average,Full Stack
+345,66123838c478ba97b06a6d09,StackScope,105,Snowflake,good,Data
+346,66123838c478ba97b06a6d0a,AppArchitect,127,Snowflake,excellent,Full Stack
+347,66123838c478ba97b06a6d0a,DataStacker,66,ADF,average,Data
+348,66123838c478ba97b06a6d0b,FullDataForge,144,Power BI,excellent,Data
+349,66123838c478ba97b06a6d0b,TechTerra,66,Alteryx,excellent,Full Stack
+350,66123838c478ba97b06a6d0c,WebWarp,100,Angular,excellent,Full Stack
+351,66123838c478ba97b06a6d0c,AnalytixPro,137,Tableau,excellent,Data
+352,66123839c478ba97b06a6d0d,ByteBridgeData,82,SQL,average,Data
+353,66123839c478ba97b06a6d0d,InsightGenius,149,ADF,average,Full Stack
+354,66123839c478ba97b06a6d0e,TechTerra,97,SQL,average,Data
+355,66123839c478ba97b06a6d0e,TrendSpotter,76,Angular,excellent,Full Stack
+356,66123839c478ba97b06a6d0f,AnalyzeAll,129,AWS Lambda,average,Data
+357,66123839c478ba97b06a6d0f,DataDynamo,78,ADF,good,Data
+358,66123839c478ba97b06a6d10,InsightForgeX,61,Python,average,Data
+359,66123839c478ba97b06a6d10,DataCraftsman,127,Alteryx,good,Full Stack
+360,66123839c478ba97b06a6d11,StreamSavvy,90,React,excellent,Full Stack
+361,66123839c478ba97b06a6d11,StreamStack,82,Javascript,good,Data
+362,66123839c478ba97b06a6d12,FullStreamSculpt,149,Tableau,good,Data
+363,66123839c478ba97b06a6d12,DataDevForge,82,ADF,average,Data
+364,66123839c478ba97b06a6d13,FullDataNexus,54,AWS Lambda,good,Full Stack
+365,66123839c478ba97b06a6d13,InsightGenius,139,Power BI,average,Data
+366,66123839c478ba97b06a6d14,StackCraftsmanData,83,Python,average,Full Stack
+367,66123839c478ba97b06a6d14,PipelinePro,54,Javascript,average,Data
+368,66123839c478ba97b06a6d15,DevDynamo,78,Angular,good,Data
+369,66123839c478ba97b06a6d15,TechTrek,55,Python,average,Data
+370,66123839c478ba97b06a6d16,DataNexus,112,Javascript,good,Data
+371,66123839c478ba97b06a6d16,PipelinePioneer,148,AWS Lambda,excellent,Full Stack
+372,66123839c478ba97b06a6d17,StackCraftsmanData,120,Alteryx,excellent,Full Stack
+373,66123839c478ba97b06a6d17,StackSculptor,97,Power BI,average,Data
+374,66123839c478ba97b06a6d18,DataStack,64,Power BI,excellent,Full Stack
+375,66123839c478ba97b06a6d18,DataCraftsmanX,127,Angular,excellent,Full Stack
+376,66123839c478ba97b06a6d19,AppArchitect,70,Angular,excellent,Data
+377,66123839c478ba97b06a6d19,AnalyzeAll,150,React,excellent,Full Stack
+378,66123839c478ba97b06a6d1a,CodeCrafter,99,Angular,average,Data
+379,66123839c478ba97b06a6d1a,StackSavvy,93,ADF,good,Data
+380,66123839c478ba97b06a6d1b,StackSavvy,121,Snowflake,excellent,Data
+381,66123839c478ba97b06a6d1b,StackSavvyInsight,83,React,good,Data
+382,66123839c478ba97b06a6d1c,DataDriven,97,Snowflake,average,Data
+383,66123839c478ba97b06a6d1c,FullDataNexus,125,Python,good,Data
+384,66123839c478ba97b06a6d1d,CodeCrafter,61,Angular,good,Data
+385,66123839c478ba97b06a6d1d,InsightStream,106,Power BI,excellent,Data
+386,66123839c478ba97b06a6d1e,InsightForge,56,Snowflake,good,Full Stack
+387,66123839c478ba97b06a6d1e,DevDynamo,73,Power BI,good,Full Stack
+388,66123839c478ba97b06a6d1f,InsightBuilder,102,Python,good,Full Stack
+389,66123839c478ba97b06a6d1f,AnalyzeByte,111,ADF,good,Full Stack
+390,66123839c478ba97b06a6d20,StackScope,96,Power BI,average,Full Stack
+391,66123839c478ba97b06a6d20,FullDataForge,129,React,excellent,Data
+392,66123839c478ba97b06a6d21,PixelPulse,135,AWS Lambda,good,Full Stack
+393,66123839c478ba97b06a6d21,DataForge,67,ADF,average,Full Stack
+394,66123839c478ba97b06a6d22,PipelinePro,88,Tableau,average,Full Stack
+395,66123839c478ba97b06a6d22,AnalytixPro,123,React,good,Full Stack
+396,6612383ac478ba97b06a6d23,StreamSavvy,62,AWS Lambda,excellent,Full Stack
+397,6612383ac478ba97b06a6d23,StreamSmith,139,Power BI,average,Data
+398,6612383ac478ba97b06a6d24,FlowForge,84,Alteryx,good,Data
+399,6612383ac478ba97b06a6d24,InsightGenius,74,Angular,excellent,Full Stack
+400,6612383ac478ba97b06a6d25,FullAnalytica,79,ADF,excellent,Data
+401,6612383ac478ba97b06a6d25,DataWarp,111,AWS Lambda,good,Full Stack
+402,6612383ac478ba97b06a6d26,FullDataNexus,143,ADF,average,Data
+403,6612383ac478ba97b06a6d26,FullDataInsight,81,AWS Lambda,average,Full Stack
+404,6612383ac478ba97b06a6d27,AnalyticaPro,117,ADF,average,Full Stack
+405,6612383ac478ba97b06a6d27,DataNexus,64,AWS Lambda,average,Full Stack
+406,6612383ac478ba97b06a6d28,FullAnalytica,84,AWS Lambda,good,Full Stack
+407,6612383ac478ba97b06a6d28,StreamSavvy,52,AWS Lambda,excellent,Full Stack
+408,6612383ac478ba97b06a6d29,DataSculptor,110,AWS Lambda,good,Data
+409,6612383ac478ba97b06a6d29,TechTerra,78,ADF,excellent,Full Stack
+410,6612383ac478ba97b06a6d2a,DataWarp,88,Snowflake,average,Data
+411,6612383ac478ba97b06a6d2a,AnalyzeStream,138,Snowflake,good,Data
+412,6612383ac478ba97b06a6d2b,InsightBuilder,150,Power BI,excellent,Data
+413,6612383ac478ba97b06a6d2b,StreamSavvy,91,AWS Lambda,excellent,Full Stack
+414,6612383ac478ba97b06a6d2c,StackSculptor,64,Angular,average,Full Stack
+415,6612383ac478ba97b06a6d2c,FullStackInsight,62,Python,good,Full Stack
+416,6612383ac478ba97b06a6d2d,AnalyzeWise,88,React,excellent,Full Stack
+417,6612383ac478ba97b06a6d2d,DataDynamo,129,Javascript,good,Full Stack
+418,6612383ac478ba97b06a6d2e,StackForge,126,Tableau,average,Data
+419,6612383ac478ba97b06a6d2e,PipelinePioneer,51,Python,excellent,Data
+420,6612383ac478ba97b06a6d2f,DataCraftsmanInsight,81,Power BI,good,Data
+421,6612383ac478ba97b06a6d2f,AnalyzeRight,71,Tableau,excellent,Full Stack
+422,6612383ac478ba97b06a6d30,CodeCraftsmanX,111,Javascript,excellent,Full Stack
+423,6612383ac478ba97b06a6d30,InsightGenius,108,React,good,Data
+424,6612383ac478ba97b06a6d31,DataDynamo,145,Power BI,excellent,Data
+425,6612383ac478ba97b06a6d31,ETLArchitect,52,Tableau,excellent,Full Stack
+426,6612383ac478ba97b06a6d32,WebWeave,89,SQL,average,Data
+427,6612383ac478ba97b06a6d32,TrendTerra,93,Python,excellent,Data
+428,6612383ac478ba97b06a6d33,PixelForge,111,Snowflake,good,Full Stack
+429,6612383ac478ba97b06a6d33,StackSculptor,96,Power BI,good,Full Stack
+430,6612383ac478ba97b06a6d34,FullStreamSculpt,139,Angular,good,Data
+431,6612383ac478ba97b06a6d34,CodeCraftsmanInsight,91,SQL,good,Full Stack
+432,6612383ac478ba97b06a6d35,DataCraftsmanX,54,Power BI,average,Full Stack
+433,6612383ac478ba97b06a6d35,DataWarp,66,ADF,average,Full Stack
+434,6612383ac478ba97b06a6d36,TechTerra,138,React,good,Data
+435,6612383ac478ba97b06a6d36,DataForge,80,AWS Lambda,excellent,Full Stack
+436,6612383ac478ba97b06a6d37,AnalyzeWise,81,React,good,Full Stack
+437,6612383ac478ba97b06a6d37,PixelForge,87,Tableau,average,Full Stack
+438,6612383ac478ba97b06a6d38,AnalyzeWise,75,React,average,Full Stack
+439,6612383ac478ba97b06a6d38,DataWave,125,Tableau,excellent,Full Stack
+440,6612383bc478ba97b06a6d39,DataCraftsmanInsight,84,ADF,good,Data
+441,6612383bc478ba97b06a6d39,ETLGenius,75,Tableau,average,Full Stack
+442,6612383bc478ba97b06a6d3a,ETLGenius,146,Alteryx,good,Full Stack
+443,6612383bc478ba97b06a6d3a,DataPulse,113,Python,average,Data
+444,6612383bc478ba97b06a6d3b,DataMason,64,AWS Lambda,average,Data
+445,6612383bc478ba97b06a6d3b,CodeCraftsman,64,Javascript,good,Full Stack
+446,6612383bc478ba97b06a6d3c,FullTechTrek,110,Tableau,good,Data
+447,6612383bc478ba97b06a6d3c,FullTrendTrack,96,Angular,good,Data
+448,6612383bc478ba97b06a6d3d,PixelPulse,103,React,average,Full Stack
+449,6612383bc478ba97b06a6d3d,StackScope,57,Javascript,excellent,Full Stack
+450,6612383bc478ba97b06a6d3e,FullTechTrek,124,Javascript,average,Data
+451,6612383bc478ba97b06a6d3e,Insightify,91,Javascript,excellent,Full Stack
+452,6612383bc478ba97b06a6d3f,InsightBuilder,128,SQL,average,Data
+453,6612383bc478ba97b06a6d3f,TechTerra,94,Alteryx,excellent,Full Stack
+454,6612383bc478ba97b06a6d40,DataWave,95,Alteryx,good,Data
+455,6612383bc478ba97b06a6d40,ETLArchitect,62,Javascript,average,Full Stack
+456,6612383bc478ba97b06a6d41,FullTechTrek,71,React,good,Data
+457,6612383bc478ba97b06a6d41,DataStack,115,Alteryx,excellent,Full Stack
+458,6612383bc478ba97b06a6d42,StackSavvyInsight,122,AWS Lambda,good,Data
+459,6612383bc478ba97b06a6d42,PixelPioneer,148,Javascript,good,Full Stack
+460,6612383bc478ba97b06a6d43,CodeCraftsman,88,Power BI,good,Data
+461,6612383bc478ba97b06a6d43,ByteBridgeX,138,Python,good,Full Stack
+462,6612383bc478ba97b06a6d44,AnalyzeAll,148,Snowflake,excellent,Full Stack
+463,6612383bc478ba97b06a6d44,TechTerra,64,Power BI,good,Data
+464,6612383bc478ba97b06a6d45,FullAnalytica,150,Alteryx,excellent,Data
+465,6612383bc478ba97b06a6d45,AnalyticaPro,120,ADF,excellent,Full Stack
+466,6612383bc478ba97b06a6d46,DataTrekker,65,AWS Lambda,average,Data
+467,6612383bc478ba97b06a6d46,CodeCompass,146,SQL,good,Data
+468,6612383bc478ba97b06a6d47,StreamBuilder,106,Python,excellent,Full Stack
+469,6612383bc478ba97b06a6d47,ByteBridgeX,125,Tableau,excellent,Full Stack
+470,6612383bc478ba97b06a6d48,StackSavvyInsight,77,Snowflake,good,Full Stack
+471,6612383bc478ba97b06a6d48,DataCraftsmanX,73,Snowflake,good,Data
+472,6612383bc478ba97b06a6d49,StackSpotter,141,Snowflake,excellent,Data
+473,6612383bc478ba97b06a6d49,DataCraftsmanX,93,Power BI,excellent,Full Stack
+474,6612383bc478ba97b06a6d4a,TrendTrack,96,SQL,excellent,Full Stack
+475,6612383bc478ba97b06a6d4a,DataSculptor,93,Snowflake,excellent,Data
+476,6612383bc478ba97b06a6d4b,StackStream,72,Angular,good,Data
+477,6612383bc478ba97b06a6d4b,TechTrek,109,Javascript,excellent,Full Stack
+478,6612383cc478ba97b06a6d4c,FullDataInsight,137,ADF,good,Full Stack
+479,6612383cc478ba97b06a6d4c,DataDevForge,56,Angular,excellent,Full Stack
+480,6612383cc478ba97b06a6d4d,TrendTrek,144,Tableau,excellent,Full Stack
+481,6612383cc478ba97b06a6d4d,StackStream,143,Angular,good,Full Stack
+482,6612383cc478ba97b06a6d4e,PixelForge,85,React,good,Data
+483,6612383cc478ba97b06a6d4e,DevForge,61,Tableau,average,Data
+484,6612383cc478ba97b06a6d4f,StreamBuilder,92,Alteryx,excellent,Full Stack
+485,6612383cc478ba97b06a6d4f,DataScope,147,AWS Lambda,excellent,Data
+486,6612383cc478ba97b06a6d50,DataDynamo,55,SQL,good,Data
+487,6612383cc478ba97b06a6d50,DataSculptor,81,Angular,excellent,Data
+488,6612383cc478ba97b06a6d51,ByteBridgeX,115,Javascript,average,Full Stack
+489,6612383cc478ba97b06a6d51,StreamSavvy,80,Python,good,Data
+490,6612383cc478ba97b06a6d52,InsightForge,50,Power BI,excellent,Full Stack
+491,6612383cc478ba97b06a6d52,FullTechTrek,96,Alteryx,excellent,Full Stack
+492,6612383cc478ba97b06a6d53,DataCraftsmanX,110,Angular,excellent,Data
+493,6612383cc478ba97b06a6d53,FullDataInsight,85,AWS Lambda,excellent,Data
+494,6612383cc478ba97b06a6d54,DataNexus,74,SQL,good,Full Stack
+495,6612383cc478ba97b06a6d54,DataDevForge,104,Angular,average,Full Stack
+496,6612383cc478ba97b06a6d55,CodeCraftsmanInsight,141,ADF,good,Full Stack
+497,6612383cc478ba97b06a6d55,TrendSpotter,57,Python,excellent,Full Stack
+498,6612383cc478ba97b06a6d56,CodeCraftsmanData,86,Power BI,good,Data
+499,6612383cc478ba97b06a6d56,StreamBuilder,121,Python,average,Full Stack
+500,6612383cc478ba97b06a6d57,FullTrendTrack,78,SQL,good,Data
+501,6612383cc478ba97b06a6d57,DataMason,64,Angular,excellent,Full Stack
+502,6612383cc478ba97b06a6d58,StackForge,134,Angular,excellent,Full Stack
+503,6612383cc478ba97b06a6d58,CodeCraftsmanData,150,AWS Lambda,average,Full Stack
+504,6612383cc478ba97b06a6d59,WebWarp,70,Tableau,average,Full Stack
+505,6612383cc478ba97b06a6d59,PixelPulse,117,Python,excellent,Data
+506,6612383cc478ba97b06a6d5a,AppAlchemy,80,SQL,average,Full Stack
+507,6612383cc478ba97b06a6d5a,InsightStream,149,Power BI,excellent,Data
+508,6612383cc478ba97b06a6d5b,StackSculptor,91,Snowflake,good,Full Stack
+509,6612383cc478ba97b06a6d5b,DataPulse,120,Python,good,Data
+510,6612383cc478ba97b06a6d5c,StreamSavvy,110,Alteryx,good,Full Stack
+511,6612383cc478ba97b06a6d5c,CodeCompass,99,Power BI,good,Full Stack
+512,6612383dc478ba97b06a6d5d,FullStackInsight,94,SQL,excellent,Data
+513,6612383dc478ba97b06a6d5d,FullStreamSculpt,143,Javascript,excellent,Data
+514,6612383dc478ba97b06a6d5e,FullInsightForge,78,SQL,good,Full Stack
+515,6612383dc478ba97b06a6d5e,DataForge,73,SQL,average,Full Stack
+516,6612383dc478ba97b06a6d5f,PixelForge,63,Alteryx,average,Data
+517,6612383dc478ba97b06a6d5f,InsightGenius,128,Snowflake,excellent,Data
+518,6612383dc478ba97b06a6d60,ByteBridgeData,81,Angular,excellent,Full Stack
+519,6612383dc478ba97b06a6d60,TechTerra,113,Python,excellent,Data
+520,6612383dc478ba97b06a6d61,DataWarp,142,Python,excellent,Full Stack
+521,6612383dc478ba97b06a6d61,AppAlchemy,74,Tableau,average,Full Stack
+522,6612383dc478ba97b06a6d62,AnalyzeWise,110,React,excellent,Full Stack
+523,6612383dc478ba97b06a6d62,StackSculptor,148,Tableau,excellent,Full Stack
+524,6612383dc478ba97b06a6d63,StackSpotter,90,Power BI,average,Data
+525,6612383dc478ba97b06a6d63,TrendSpotter,78,SQL,good,Full Stack
+526,6612383dc478ba97b06a6d64,StackCraftsmanData,86,Javascript,average,Data
+527,6612383dc478ba97b06a6d64,PixelForge,111,ADF,average,Full Stack
+528,6612383dc478ba97b06a6d65,CodeCompass,78,Power BI,good,Data
+529,6612383dc478ba97b06a6d65,CodeCrafter,126,SQL,good,Full Stack
+530,6612383dc478ba97b06a6d66,DevDynamo,121,AWS Lambda,excellent,Full Stack
+531,6612383dc478ba97b06a6d66,AnalyzeWise,78,Angular,average,Data
+532,6612383dc478ba97b06a6d67,InsightStreamX,76,AWS Lambda,excellent,Data
+533,6612383dc478ba97b06a6d67,FullDataForge,150,Alteryx,excellent,Data
+534,6612383dc478ba97b06a6d68,WebWeave,67,SQL,excellent,Data
+535,6612383dc478ba97b06a6d68,CodeCompass,106,React,good,Data
+536,6612383dc478ba97b06a6d69,CodeCraftsman,81,Python,good,Data
+537,6612383dc478ba97b06a6d69,AnalyzeStack,78,Angular,good,Data
+538,6612383dc478ba97b06a6d6a,PipelinePioneer,101,Angular,average,Data
+539,6612383dc478ba97b06a6d6a,DataCraftsman,137,React,average,Full Stack
+540,6612383dc478ba97b06a6d6b,CodeCraftsmanInsight,53,Snowflake,good,Full Stack
+541,6612383dc478ba97b06a6d6b,DataCraftsmanX,66,ADF,excellent,Data
+542,6612383ec478ba97b06a6d6c,TrendTrek,146,SQL,excellent,Data
+543,6612383ec478ba97b06a6d6c,DataNexus,94,React,excellent,Full Stack
+544,6612383ec478ba97b06a6d6d,TrendTrack,136,SQL,good,Data
+545,6612383ec478ba97b06a6d6d,PixelPulse,123,React,good,Full Stack
+546,6612383ec478ba97b06a6d6e,DataWarp,50,SQL,good,Full Stack
+547,6612383ec478ba97b06a6d6e,ETLArchitect,106,SQL,good,Data
+548,6612383ec478ba97b06a6d6f,AnalytixPro,69,Snowflake,excellent,Full Stack
+549,6612383ec478ba97b06a6d6f,StackSpotter,119,Snowflake,excellent,Data
+550,6612383ec478ba97b06a6d70,DataForge,75,AWS Lambda,average,Data
+551,6612383ec478ba97b06a6d70,DataNexus,134,SQL,excellent,Full Stack
+552,6612383ec478ba97b06a6d71,DataFlowX,54,Tableau,excellent,Full Stack
+553,6612383ec478ba97b06a6d71,StreamBuilder,127,Snowflake,excellent,Full Stack
+554,6612383ec478ba97b06a6d72,DataCraftsmanInsight,88,Javascript,average,Full Stack
+555,6612383ec478ba97b06a6d72,StreamSavvy,85,Angular,excellent,Full Stack
+556,6612383ec478ba97b06a6d73,StreamBuilder,147,Tableau,excellent,Full Stack
+557,6612383ec478ba97b06a6d73,InsightStack,114,SQL,good,Data
+558,6612383ec478ba97b06a6d74,StackSculptor,54,Tableau,excellent,Full Stack
+559,6612383ec478ba97b06a6d74,ETLGenius,129,Power BI,good,Full Stack
+560,6612383ec478ba97b06a6d75,AppAlchemy,147,AWS Lambda,average,Full Stack
+561,6612383ec478ba97b06a6d75,DataCraftsmanInsight,64,Snowflake,average,Data
+562,6612383ec478ba97b06a6d76,DataSavvyInsight,112,Python,good,Data
+563,6612383ec478ba97b06a6d76,FullAnalytica,58,Alteryx,excellent,Full Stack
+564,6612383ec478ba97b06a6d77,CodeCraftsman,120,Tableau,excellent,Data
+565,6612383ec478ba97b06a6d77,DataDriven,145,AWS Lambda,average,Full Stack
+566,6612383ec478ba97b06a6d78,FullTechTrek,76,Python,excellent,Full Stack
+567,6612383ec478ba97b06a6d78,DataDevForge,73,ADF,good,Data
+568,6612383ec478ba97b06a6d79,DataForge,116,AWS Lambda,good,Full Stack
+569,6612383ec478ba97b06a6d79,InsightStack,105,ADF,average,Full Stack
+570,6612383fc478ba97b06a6d7a,Insightify,99,Power BI,good,Full Stack
+571,6612383fc478ba97b06a6d7a,AnalyticsPulse,65,Alteryx,average,Full Stack
+572,6612383fc478ba97b06a6d7b,AppArchitect,109,Tableau,excellent,Full Stack
+573,6612383fc478ba97b06a6d7b,TrendTrek,115,Power BI,excellent,Data
+574,6612383fc478ba97b06a6d7c,DataDriven,144,ADF,average,Full Stack
+575,6612383fc478ba97b06a6d7c,CodeCraftsmanX,97,React,good,Data
+576,6612383fc478ba97b06a6d7d,AppAlchemy,133,Tableau,average,Data
+577,6612383fc478ba97b06a6d7d,InsightStream,114,Power BI,good,Data
+578,6612383fc478ba97b06a6d7e,StreamStack,92,Python,good,Data
+579,6612383fc478ba97b06a6d7e,TrendTrek,100,Angular,good,Full Stack
+580,6612383fc478ba97b06a6d7f,InsightStreamX,144,Alteryx,average,Data
+581,6612383fc478ba97b06a6d7f,AppAlchemy,83,Power BI,excellent,Full Stack
+582,6612383fc478ba97b06a6d80,DataCraftsmanInsight,62,React,excellent,Data
+583,6612383fc478ba97b06a6d80,AnalyzeWise,126,SQL,average,Data
+584,6612383fc478ba97b06a6d81,WebWeave,102,Snowflake,good,Data
+585,6612383fc478ba97b06a6d81,CodeCompass,121,Snowflake,average,Data
+586,6612383fc478ba97b06a6d82,DataCraftsmanInsight,80,Power BI,good,Data
+587,6612383fc478ba97b06a6d82,DataCraftsman,110,Javascript,excellent,Data
+588,6612383fc478ba97b06a6d83,TrendTerra,108,Alteryx,excellent,Data
+589,6612383fc478ba97b06a6d83,CodeCraftsmanData,135,AWS Lambda,excellent,Full Stack
+590,6612383fc478ba97b06a6d84,StreamBuilder,111,Python,average,Full Stack
+591,6612383fc478ba97b06a6d84,DataDevForge,119,ADF,excellent,Data
+592,6612383fc478ba97b06a6d85,StackSpotter,99,ADF,good,Data
+593,6612383fc478ba97b06a6d85,ETLGenius,140,AWS Lambda,good,Full Stack
+594,6612383fc478ba97b06a6d86,ByteBridgeData,121,Javascript,average,Data
+595,6612383fc478ba97b06a6d86,FullStreamSculpt,64,AWS Lambda,excellent,Data
+596,66123840c478ba97b06a6d87,ETLArchitect,126,Angular,excellent,Full Stack
+597,66123840c478ba97b06a6d87,ByteBridgeData,55,ADF,average,Full Stack
+598,66123840c478ba97b06a6d88,InsightStack,100,SQL,good,Full Stack
+599,66123840c478ba97b06a6d88,StreamSavvy,104,SQL,excellent,Data
+600,66123840c478ba97b06a6d89,WebWarp,104,ADF,excellent,Full Stack
+601,66123840c478ba97b06a6d89,DataFlowX,69,Alteryx,excellent,Full Stack
+602,66123840c478ba97b06a6d8a,DataPulse,55,Tableau,excellent,Data
+603,66123840c478ba97b06a6d8a,TrendTerra,133,Python,good,Full Stack
+604,66123840c478ba97b06a6d8b,ByteBridge,135,React,good,Data
+605,66123840c478ba97b06a6d8b,InsightStreamX,73,Javascript,good,Full Stack
+606,66123840c478ba97b06a6d8c,WebWeave,129,Alteryx,average,Full Stack
+607,66123840c478ba97b06a6d8c,DataCraftsmanInsight,102,Angular,excellent,Data
+608,66123840c478ba97b06a6d8d,StackSpotter,130,Javascript,good,Full Stack
+609,66123840c478ba97b06a6d8d,InsightBuilder,54,ADF,excellent,Full Stack
+610,66123840c478ba97b06a6d8e,InsightForge,145,Power BI,average,Data
+611,66123840c478ba97b06a6d8e,InsightSavvy,135,Alteryx,good,Data
+612,66123840c478ba97b06a6d8f,ByteBridgeX,82,Python,excellent,Full Stack
+613,66123840c478ba97b06a6d8f,WebWeave,140,Python,good,Data
+614,66123840c478ba97b06a6d90,InsightSavvy,66,Alteryx,good,Full Stack
+615,66123840c478ba97b06a6d90,DataCraftsmanX,101,AWS Lambda,average,Data
+616,66123840c478ba97b06a6d91,WebWizardry,58,React,good,Full Stack
+617,66123840c478ba97b06a6d91,InsightGenius,115,Angular,good,Full Stack
+618,66123840c478ba97b06a6d92,FullDataNexus,56,Python,excellent,Data
+619,66123840c478ba97b06a6d92,StackScope,138,React,good,Data
+620,66123840c478ba97b06a6d93,InsightBuilder,114,Power BI,average,Data
+621,66123840c478ba97b06a6d93,InsightStreamX,86,AWS Lambda,average,Full Stack
+622,66123840c478ba97b06a6d94,ByteBridgeX,131,ADF,good,Full Stack
+623,66123840c478ba97b06a6d94,PixelForge,105,Alteryx,average,Data
+624,66123841c478ba97b06a6d95,AnalyzeByte,110,Power BI,average,Data
+625,66123841c478ba97b06a6d95,DataCraftsman,87,Power BI,average,Full Stack
+626,66123841c478ba97b06a6d96,FullStreamSculpt,142,ADF,good,Full Stack
+627,66123841c478ba97b06a6d96,ETLGenius,138,SQL,average,Full Stack
+628,66123841c478ba97b06a6d97,DataVista,77,React,average,Data
+629,66123841c478ba97b06a6d97,TrendSpotter,113,Angular,good,Data
+630,66123841c478ba97b06a6d98,DataByteForge,65,SQL,good,Full Stack
+631,66123841c478ba97b06a6d98,DataNexus,68,Snowflake,excellent,Full Stack
+632,66123841c478ba97b06a6d99,StackSavvy,64,SQL,good,Full Stack
+633,66123841c478ba97b06a6d99,DataSavvyInsight,139,Tableau,average,Full Stack
+634,66123841c478ba97b06a6d9a,InsightSavvy,105,AWS Lambda,good,Full Stack
+635,66123841c478ba97b06a6d9a,TrendTrack,98,AWS Lambda,average,Full Stack
+636,66123841c478ba97b06a6d9b,DataByteForge,149,Power BI,good,Full Stack
+637,66123841c478ba97b06a6d9b,FullStackInsight,66,Tableau,excellent,Full Stack
+638,66123841c478ba97b06a6d9c,CodeCraftsmanInsight,137,Power BI,good,Full Stack
+639,66123841c478ba97b06a6d9c,DataFlowX,63,Alteryx,excellent,Data
+640,66123841c478ba97b06a6d9d,FullInsightForge,100,Snowflake,good,Full Stack
+641,66123841c478ba97b06a6d9d,DataCraftsmanX,130,Alteryx,average,Full Stack
+642,66123841c478ba97b06a6d9e,AnalyzeByte,123,Angular,average,Data
+643,66123841c478ba97b06a6d9e,FullStreamSculpt,52,React,excellent,Data
+644,66123841c478ba97b06a6d9f,DataTrekker,124,SQL,good,Data
+645,66123841c478ba97b06a6d9f,DevDynamo,100,Angular,good,Data
+646,66123841c478ba97b06a6da0,ByteBridgeX,92,Javascript,average,Data
+647,66123841c478ba97b06a6da0,ETLGenius,81,Power BI,average,Data
+648,66123841c478ba97b06a6da1,FullTrendTrack,142,Python,excellent,Full Stack
+649,66123841c478ba97b06a6da1,DataPulse,71,Angular,excellent,Data
+650,66123841c478ba97b06a6da2,CodeCrafter,141,AWS Lambda,excellent,Full Stack
+651,66123841c478ba97b06a6da2,PixelForge,65,AWS Lambda,good,Full Stack
+652,66123841c478ba97b06a6da3,InsightBuilder,141,Angular,good,Full Stack
+653,66123841c478ba97b06a6da3,ByteBridgeData,81,Python,average,Data
+654,66123841c478ba97b06a6da4,DataScope,126,Angular,excellent,Full Stack
+655,66123841c478ba97b06a6da4,FullDataForge,62,Snowflake,average,Data
+656,66123841c478ba97b06a6da5,DataSculptor,146,Snowflake,good,Full Stack
+657,66123841c478ba97b06a6da5,DataNexus,123,React,excellent,Data
+658,66123841c478ba97b06a6da6,InsightStreamX,117,Snowflake,excellent,Full Stack
+659,66123841c478ba97b06a6da6,TrendSpotter,131,React,average,Full Stack
+660,66123841c478ba97b06a6da7,AnalyzeStream,77,Snowflake,good,Data
+661,66123841c478ba97b06a6da7,PixelForge,111,Snowflake,excellent,Full Stack
+662,66123841c478ba97b06a6da8,AnalyzeAll,56,Python,excellent,Full Stack
+663,66123841c478ba97b06a6da8,CodeCrafter,133,Alteryx,good,Data
+664,66123841c478ba97b06a6da9,InsightGenius,69,Power BI,average,Full Stack
+665,66123841c478ba97b06a6da9,StackSpotter,64,AWS Lambda,excellent,Data
+666,66123841c478ba97b06a6daa,DataNexus,53,AWS Lambda,good,Full Stack
+667,66123841c478ba97b06a6daa,CodeCraftsmanData,128,Alteryx,excellent,Data
+668,66123842c478ba97b06a6dab,StackCraftsmanData,64,Alteryx,good,Data
+669,66123842c478ba97b06a6dab,DataTrekker,146,Alteryx,excellent,Data
+670,66123842c478ba97b06a6dac,DataVista,110,SQL,average,Data
+671,66123842c478ba97b06a6dac,ByteBlast,98,Tableau,excellent,Full Stack
+672,66123842c478ba97b06a6dad,DataFlowX,53,Javascript,good,Data
+673,66123842c478ba97b06a6dad,DataPulse,135,SQL,excellent,Data
+674,66123842c478ba97b06a6dae,DataWarp,86,Power BI,good,Full Stack
+675,66123842c478ba97b06a6dae,StackSculptor,60,Alteryx,excellent,Full Stack
+676,66123842c478ba97b06a6daf,DataHorizon,64,SQL,excellent,Full Stack
+677,66123842c478ba97b06a6daf,AnalyticaPro,104,Javascript,average,Data
+678,66123842c478ba97b06a6db0,InsightStream,73,React,average,Full Stack
+679,66123842c478ba97b06a6db0,DataPulse,99,ADF,average,Full Stack
+680,66123842c478ba97b06a6db1,DataWarp,115,Alteryx,average,Full Stack
+681,66123842c478ba97b06a6db1,ByteBlast,125,React,good,Full Stack
+682,66123842c478ba97b06a6db2,InsightStreamX,52,Javascript,good,Full Stack
+683,66123842c478ba97b06a6db2,FullDataForge,85,Angular,average,Data
+684,66123842c478ba97b06a6db3,DataDevForge,90,Alteryx,good,Full Stack
+685,66123842c478ba97b06a6db3,AnalyzeByte,98,Alteryx,good,Data
+686,66123842c478ba97b06a6db4,InsightStack,137,Python,excellent,Full Stack
+687,66123842c478ba97b06a6db4,DevForge,60,SQL,good,Full Stack
+688,66123842c478ba97b06a6db5,TrendTrek,82,Angular,good,Full Stack
+689,66123842c478ba97b06a6db5,FullStreamSculpt,111,ADF,average,Full Stack
+690,66123842c478ba97b06a6db6,DataCraftsmanX,135,Tableau,good,Full Stack
+691,66123842c478ba97b06a6db6,CodeCraftsman,57,AWS Lambda,average,Full Stack
+692,66123842c478ba97b06a6db7,ByteBridgeX,149,ADF,good,Data
+693,66123842c478ba97b06a6db7,DataPulse,53,Javascript,average,Data
+694,66123842c478ba97b06a6db8,DataPulse,57,ADF,excellent,Data
+695,66123842c478ba97b06a6db8,FullStreamSculpt,55,ADF,excellent,Data
+696,66123842c478ba97b06a6db9,ETLGenius,136,Javascript,average,Full Stack
+697,66123842c478ba97b06a6db9,DataHorizon,149,Angular,average,Full Stack
+698,66123842c478ba97b06a6dba,StackSculptor,138,Snowflake,good,Data
+699,66123842c478ba97b06a6dba,PipelinePro,81,Python,excellent,Full Stack
+700,66123842c478ba97b06a6dbb,FullDataNexus,99,Tableau,average,Data
+701,66123842c478ba97b06a6dbb,StackStream,52,Power BI,good,Full Stack
+702,66123842c478ba97b06a6dbc,DataTrekker,87,Tableau,average,Full Stack
+703,66123842c478ba97b06a6dbc,DataForge,114,Angular,average,Data
+704,66123842c478ba97b06a6dbd,WebWarp,125,Snowflake,excellent,Full Stack
+705,66123842c478ba97b06a6dbd,DataWarp,141,Alteryx,excellent,Full Stack
+706,66123842c478ba97b06a6dbe,FullStackInsight,139,Javascript,average,Data
+707,66123842c478ba97b06a6dbe,InsightGenius,117,Python,average,Data
+708,66123842c478ba97b06a6dbf,TechTrek,56,Javascript,excellent,Data
+709,66123842c478ba97b06a6dbf,DataNexus,148,Javascript,average,Data
+710,66123842c478ba97b06a6dc0,DataByteForge,91,SQL,good,Full Stack
+711,66123842c478ba97b06a6dc0,ByteBridgeData,70,React,excellent,Data
+712,66123843c478ba97b06a6dc1,StackStream,102,Power BI,good,Data
+713,66123843c478ba97b06a6dc1,InsightBuilder,150,Javascript,excellent,Data
+714,66123843c478ba97b06a6dc2,StreamStack,149,Javascript,average,Full Stack
+715,66123843c478ba97b06a6dc2,FullDataForge,95,SQL,excellent,Full Stack
+716,66123843c478ba97b06a6dc3,InsightStack,103,SQL,good,Data
+717,66123843c478ba97b06a6dc3,DataNexus,118,SQL,average,Full Stack
+718,66123843c478ba97b06a6dc4,WebWizardry,56,Angular,excellent,Data
+719,66123843c478ba97b06a6dc4,DataStacker,65,Snowflake,average,Data
+720,66123843c478ba97b06a6dc5,StackStream,142,Power BI,average,Full Stack
+721,66123843c478ba97b06a6dc5,DataCraftsmanX,53,Alteryx,excellent,Data
+722,66123843c478ba97b06a6dc6,DataDriven,74,Alteryx,good,Data
+723,66123843c478ba97b06a6dc6,DataByteForge,88,Snowflake,excellent,Full Stack
+724,66123843c478ba97b06a6dc7,StackSculptor,77,Angular,average,Data
+725,66123843c478ba97b06a6dc7,DataDriven,98,Alteryx,average,Full Stack
+726,66123843c478ba97b06a6dc8,PipelinePro,115,AWS Lambda,good,Data
+727,66123843c478ba97b06a6dc8,PipelinePioneer,92,Javascript,good,Full Stack
+728,66123843c478ba97b06a6dc9,PipelinePro,86,AWS Lambda,good,Data
+729,66123843c478ba97b06a6dc9,InsightStream,145,Tableau,good,Data
+730,66123843c478ba97b06a6dca,FullDataInsight,79,Angular,good,Data
+731,66123843c478ba97b06a6dca,DataForge,66,React,good,Data
+732,66123843c478ba97b06a6dcb,TrendTerra,113,Snowflake,good,Full Stack
+733,66123843c478ba97b06a6dcb,AnalyzeAll,87,SQL,excellent,Full Stack
+734,66123843c478ba97b06a6dcc,DataForgeX,89,ADF,good,Data
+735,66123843c478ba97b06a6dcc,FullDataNexus,108,SQL,average,Full Stack
+736,66123843c478ba97b06a6dcd,DataFlowX,91,Angular,excellent,Full Stack
+737,66123843c478ba97b06a6dcd,StreamSculpt,118,AWS Lambda,average,Data
+738,66123843c478ba97b06a6dce,AnalyzeByte,105,Power BI,good,Data
+739,66123843c478ba97b06a6dce,DevForge,140,React,excellent,Data
+740,66123843c478ba97b06a6dcf,DataDevForge,110,Tableau,excellent,Data
+741,66123843c478ba97b06a6dcf,ByteBlast,115,Power BI,average,Full Stack
+742,66123843c478ba97b06a6dd0,DevDynamo,146,Python,good,Full Stack
+743,66123843c478ba97b06a6dd0,ETLGenius,94,Python,average,Data
+744,66123843c478ba97b06a6dd1,DataMason,150,Angular,average,Full Stack
+745,66123843c478ba97b06a6dd1,AnalytixPro,141,Power BI,excellent,Data
+746,66123843c478ba97b06a6dd2,DataStacker,67,SQL,excellent,Data
+747,66123843c478ba97b06a6dd2,AnalyticsPulse,58,React,excellent,Data
+748,66123843c478ba97b06a6dd3,CodeCompass,144,Snowflake,excellent,Full Stack
+749,66123843c478ba97b06a6dd3,CodeCrafter,144,Power BI,good,Data
+750,66123843c478ba97b06a6dd4,AnalyzeRight,80,AWS Lambda,good,Full Stack
+751,66123843c478ba97b06a6dd4,DevDynamo,127,SQL,good,Full Stack
+752,66123843c478ba97b06a6dd5,AppAlchemy,103,AWS Lambda,good,Full Stack
+753,66123843c478ba97b06a6dd5,DataWarp,123,Python,excellent,Data
+754,66123844c478ba97b06a6dd6,DataCraftsman,111,Snowflake,good,Data
+755,66123844c478ba97b06a6dd6,CodeCrafter,106,React,average,Data
+756,66123844c478ba97b06a6dd7,AppAlchemy,86,Snowflake,good,Data
+757,66123844c478ba97b06a6dd7,ByteBridge,141,ADF,excellent,Full Stack
+758,66123844c478ba97b06a6dd8,InsightStream,65,Tableau,average,Data
+759,66123844c478ba97b06a6dd8,FlowForge,125,AWS Lambda,excellent,Data
+760,66123844c478ba97b06a6dd9,InsightForgeX,147,Javascript,average,Full Stack
+761,66123844c478ba97b06a6dd9,TrendSpotter,70,Javascript,average,Data
+762,66123844c478ba97b06a6dda,DataForgeX,77,ADF,excellent,Data
+763,66123844c478ba97b06a6dda,TechTerra,133,SQL,excellent,Data
+764,66123844c478ba97b06a6ddb,PixelPioneer,112,Tableau,average,Data
+765,66123844c478ba97b06a6ddb,InsightGenius,121,Angular,average,Full Stack
+766,66123844c478ba97b06a6ddc,DataForgeX,113,Power BI,good,Full Stack
+767,66123844c478ba97b06a6ddc,PixelPioneer,78,SQL,average,Full Stack
+768,66123844c478ba97b06a6ddd,StreamSculpt,103,Angular,excellent,Full Stack
+769,66123844c478ba97b06a6ddd,DataStacker,58,Power BI,average,Data
+770,66123844c478ba97b06a6dde,DataStacker,115,Power BI,good,Full Stack
+771,66123844c478ba97b06a6dde,DataNexus,119,AWS Lambda,good,Full Stack
+772,66123844c478ba97b06a6ddf,ByteBridge,105,Javascript,average,Data
+773,66123844c478ba97b06a6ddf,TrendTerra,53,Python,excellent,Data
+774,66123844c478ba97b06a6de0,CodeCraftsman,72,Angular,good,Full Stack
+775,66123844c478ba97b06a6de0,WebWarp,108,Power BI,excellent,Data
+776,66123844c478ba97b06a6de1,AnalyzeRight,142,Javascript,good,Full Stack
+777,66123844c478ba97b06a6de1,DataHorizon,120,Alteryx,average,Full Stack
+778,66123844c478ba97b06a6de2,WebWizardry,125,SQL,good,Full Stack
+779,66123844c478ba97b06a6de2,CodeCraftsman,112,SQL,average,Data
+780,66123844c478ba97b06a6de3,TrendSpotter,97,ADF,good,Data
+781,66123844c478ba97b06a6de3,InsightBuilder,67,SQL,excellent,Data
+782,66123844c478ba97b06a6de4,FullInsightForge,95,AWS Lambda,average,Data
+783,66123844c478ba97b06a6de4,DataForgeX,142,React,average,Data
+784,66123844c478ba97b06a6de5,DataTrekker,69,Javascript,average,Data
+785,66123844c478ba97b06a6de5,StreamSculpt,135,AWS Lambda,excellent,Full Stack
+786,66123844c478ba97b06a6de6,DataSculptor,56,Javascript,excellent,Full Stack
+787,66123844c478ba97b06a6de6,DataPulse,62,React,average,Data
+788,66123844c478ba97b06a6de7,InsightStack,92,Python,excellent,Full Stack
+789,66123844c478ba97b06a6de7,InsightForgeX,82,React,excellent,Full Stack
+790,66123844c478ba97b06a6de8,DataDriven,58,Power BI,good,Data
+791,66123844c478ba97b06a6de8,AnalyticsPulse,132,Alteryx,good,Full Stack
+792,66123845c478ba97b06a6de9,Insightify,99,Python,good,Data
+793,66123845c478ba97b06a6de9,PixelPulse,78,Angular,average,Full Stack
+794,66123845c478ba97b06a6dea,InsightStreamX,59,Power BI,excellent,Full Stack
+795,66123845c478ba97b06a6dea,PixelPioneer,96,Angular,average,Full Stack
+796,66123845c478ba97b06a6deb,DataFlowX,65,Angular,good,Full Stack
+797,66123845c478ba97b06a6deb,InsightStack,57,ADF,excellent,Full Stack
+798,66123845c478ba97b06a6dec,DataWarp,95,SQL,excellent,Full Stack
+799,66123845c478ba97b06a6dec,DataCraftsmanX,137,Angular,good,Data
+800,66123845c478ba97b06a6ded,DataStacker,140,SQL,average,Data
+801,66123845c478ba97b06a6ded,ByteBridgeData,78,Angular,excellent,Data
+802,66123845c478ba97b06a6dee,ETLArchitect,138,Power BI,good,Data
+803,66123845c478ba97b06a6dee,StackStream,55,Power BI,average,Data
+804,66123845c478ba97b06a6def,FullStackInsight,144,Power BI,good,Full Stack
+805,66123845c478ba97b06a6def,CodeCrafter,132,Angular,average,Data
+806,66123845c478ba97b06a6df0,WebWizardry,96,Alteryx,average,Full Stack
+807,66123845c478ba97b06a6df0,AnalytixPro,106,Python,average,Full Stack
+808,66123845c478ba97b06a6df1,FullStackInsight,57,SQL,excellent,Full Stack
+809,66123845c478ba97b06a6df1,StreamSavvy,134,Snowflake,average,Full Stack
+810,66123845c478ba97b06a6df2,InsightStreamX,106,React,good,Full Stack
+811,66123845c478ba97b06a6df2,FullStreamSculpt,84,AWS Lambda,good,Full Stack
+812,66123845c478ba97b06a6df3,StackStream,101,ADF,excellent,Data
+813,66123845c478ba97b06a6df3,AnalyticaPro,54,SQL,excellent,Data
+814,66123845c478ba97b06a6df4,InsightGenius,68,Javascript,excellent,Data
+815,66123845c478ba97b06a6df4,FullAnalytica,130,Angular,average,Data
+816,66123845c478ba97b06a6df5,DataForgeX,79,Power BI,excellent,Full Stack
+817,66123845c478ba97b06a6df5,FullAnalytica,125,AWS Lambda,good,Full Stack
+818,66123845c478ba97b06a6df6,FullTechTrek,123,Javascript,average,Full Stack
+819,66123845c478ba97b06a6df6,InsightSavvy,62,Alteryx,average,Data
+820,66123845c478ba97b06a6df7,DevForge,135,ADF,excellent,Full Stack
+821,66123845c478ba97b06a6df7,PipelinePioneer,109,SQL,excellent,Full Stack
+822,66123845c478ba97b06a6df8,FullTechTrek,126,ADF,good,Full Stack
+823,66123845c478ba97b06a6df8,InsightBuilder,113,AWS Lambda,good,Data
+824,66123845c478ba97b06a6df9,FullDataNexus,142,Power BI,excellent,Data
+825,66123845c478ba97b06a6df9,StackForge,104,Python,excellent,Data
+826,66123846c478ba97b06a6dfa,FullTechTrek,61,Tableau,average,Data
+827,66123846c478ba97b06a6dfa,InsightBuilder,51,React,average,Full Stack
+828,66123846c478ba97b06a6dfb,StreamSmith,109,ADF,excellent,Data
+829,66123846c478ba97b06a6dfb,StreamBuilder,72,Javascript,good,Full Stack
+830,66123846c478ba97b06a6dfc,DataVista,61,Alteryx,good,Full Stack
+831,66123846c478ba97b06a6dfc,DataVista,100,Snowflake,good,Data
+832,66123846c478ba97b06a6dfd,ByteBridgeX,110,ADF,average,Full Stack
+833,66123846c478ba97b06a6dfd,InsightStreamX,53,AWS Lambda,excellent,Full Stack
+834,66123846c478ba97b06a6dfe,DataSavvyInsight,127,ADF,good,Data
+835,66123846c478ba97b06a6dfe,StackSculptor,108,Javascript,good,Data
+836,66123846c478ba97b06a6dff,ByteBridge,94,AWS Lambda,excellent,Full Stack
+837,66123846c478ba97b06a6dff,InsightStack,74,Alteryx,average,Data
+838,66123846c478ba97b06a6e00,FullDataNexus,150,Tableau,excellent,Full Stack
+839,66123846c478ba97b06a6e00,StackStream,72,Alteryx,good,Data
+840,66123846c478ba97b06a6e01,TechTrek,68,Python,excellent,Data
+841,66123846c478ba97b06a6e01,StackScope,116,AWS Lambda,average,Full Stack
+842,66123846c478ba97b06a6e02,FullStreamSculpt,128,React,excellent,Full Stack
+843,66123846c478ba97b06a6e02,DataMason,134,SQL,good,Data
+844,66123846c478ba97b06a6e03,FlowForge,126,Python,excellent,Full Stack
+845,66123846c478ba97b06a6e03,StackSculptor,80,AWS Lambda,excellent,Data
+846,66123846c478ba97b06a6e04,DevForge,50,Tableau,average,Full Stack
+847,66123846c478ba97b06a6e04,AnalyticaPro,76,React,excellent,Full Stack
+848,66123846c478ba97b06a6e05,FullInsightForge,142,Power BI,average,Full Stack
+849,66123846c478ba97b06a6e05,PipelinePro,111,React,good,Full Stack
+850,66123846c478ba97b06a6e06,DataForge,60,ADF,good,Full Stack
+851,66123846c478ba97b06a6e06,CodeCraftsman,106,React,excellent,Data
+852,66123846c478ba97b06a6e07,FullStackInsight,66,Python,good,Data
+853,66123846c478ba97b06a6e07,DataForge,55,ADF,good,Full Stack
+854,66123846c478ba97b06a6e08,TrendTrek,63,React,average,Full Stack
+855,66123846c478ba97b06a6e08,AnalyzeAll,90,Power BI,excellent,Full Stack
+856,66123846c478ba97b06a6e09,AnalyzeStack,96,SQL,average,Full Stack
+857,66123846c478ba97b06a6e09,StackStream,105,Power BI,average,Full Stack
+858,66123846c478ba97b06a6e0a,DevDynamo,72,Snowflake,average,Data
+859,66123846c478ba97b06a6e0a,AnalytixPro,72,ADF,average,Full Stack
+860,66123846c478ba97b06a6e0b,DataStacker,136,AWS Lambda,good,Data
+861,66123846c478ba97b06a6e0b,StreamBuilder,124,SQL,good,Data
+862,66123847c478ba97b06a6e0c,DevDynamo,95,ADF,good,Full Stack
+863,66123847c478ba97b06a6e0c,AnalyzeStack,142,Javascript,good,Full Stack
+864,66123847c478ba97b06a6e0d,CodeCraftsmanData,116,Angular,good,Full Stack
+865,66123847c478ba97b06a6e0d,WebWarp,132,Javascript,good,Full Stack
+866,66123847c478ba97b06a6e0e,DataWave,118,AWS Lambda,good,Data
+867,66123847c478ba97b06a6e0e,CodeCraftsmanData,126,React,average,Full Stack
+868,66123847c478ba97b06a6e0f,InsightForge,96,AWS Lambda,good,Data
+869,66123847c478ba97b06a6e0f,StackSavvy,122,Python,excellent,Data
+870,66123847c478ba97b06a6e10,TrendTrek,129,Snowflake,excellent,Full Stack
+871,66123847c478ba97b06a6e10,DataSavvyInsight,71,Python,average,Full Stack
+872,66123847c478ba97b06a6e11,DevDynamo,117,ADF,average,Data
+873,66123847c478ba97b06a6e11,InsightBuilder,52,React,average,Data
+874,66123847c478ba97b06a6e12,Insightify,118,Python,average,Data
+875,66123847c478ba97b06a6e12,AnalyzeStack,89,Javascript,excellent,Full Stack
+876,66123847c478ba97b06a6e13,FullTrendTrack,118,React,excellent,Data
+877,66123847c478ba97b06a6e13,TrendTrack,62,Alteryx,excellent,Full Stack
+878,66123847c478ba97b06a6e14,StreamSmith,75,Python,good,Data
+879,66123847c478ba97b06a6e14,DataStacker,51,Angular,average,Data
+880,66123847c478ba97b06a6e15,CodeCompass,100,SQL,excellent,Full Stack
+881,66123847c478ba97b06a6e15,DataNexus,64,Power BI,excellent,Data
+882,66123847c478ba97b06a6e16,InsightForgeX,147,Angular,good,Data
+883,66123847c478ba97b06a6e16,FullDataInsight,52,ADF,excellent,Data
+884,66123847c478ba97b06a6e17,FullDataInsight,134,Javascript,good,Full Stack
+885,66123847c478ba97b06a6e17,AppArchitect,80,Power BI,average,Data
+886,66123847c478ba97b06a6e18,InsightBuilder,111,Alteryx,average,Full Stack
+887,66123847c478ba97b06a6e18,DataDevForge,130,ADF,average,Full Stack
+888,66123847c478ba97b06a6e19,DataForgeX,148,SQL,excellent,Data
+889,66123847c478ba97b06a6e19,PixelForge,129,Angular,excellent,Full Stack
+890,66123848c478ba97b06a6e1a,TechTerra,107,Python,good,Full Stack
+891,66123848c478ba97b06a6e1a,ByteBridgeX,62,Javascript,average,Data
+892,66123848c478ba97b06a6e1b,ETLGenius,135,React,good,Full Stack
+893,66123848c478ba97b06a6e1b,FullDataNexus,109,Power BI,excellent,Full Stack
+894,66123848c478ba97b06a6e1c,StreamBuilder,60,Power BI,good,Full Stack
+895,66123848c478ba97b06a6e1c,DataWave,96,ADF,excellent,Data
+896,66123848c478ba97b06a6e1d,DataNexus,79,Power BI,average,Full Stack
+897,66123848c478ba97b06a6e1d,AppAlchemy,73,AWS Lambda,good,Data
+898,66123848c478ba97b06a6e1e,DataCraftsmanInsight,93,AWS Lambda,excellent,Full Stack
+899,66123848c478ba97b06a6e1e,DataNexus,65,Javascript,excellent,Full Stack
+900,66123848c478ba97b06a6e1f,CodeCompass,100,Power BI,average,Full Stack
+901,66123848c478ba97b06a6e1f,StreamSavvy,118,Javascript,excellent,Full Stack
+902,66123848c478ba97b06a6e20,DataTrekker,96,ADF,good,Full Stack
+903,66123848c478ba97b06a6e20,StackSavvy,123,Python,average,Full Stack
+904,66123848c478ba97b06a6e21,TrendTrek,97,Tableau,average,Data
+905,66123848c478ba97b06a6e21,TechTrek,149,ADF,good,Full Stack
+906,66123848c478ba97b06a6e22,DataDriven,85,Alteryx,average,Full Stack
+907,66123848c478ba97b06a6e22,CodeCrafter,63,SQL,good,Full Stack
+908,66123848c478ba97b06a6e23,StackSavvy,142,Javascript,good,Full Stack
+909,66123848c478ba97b06a6e23,DataSculptor,146,ADF,excellent,Full Stack
+910,66123848c478ba97b06a6e24,Insightify,126,React,good,Full Stack
+911,66123848c478ba97b06a6e24,DevForge,98,Angular,good,Full Stack
+912,66123848c478ba97b06a6e25,AnalyzeStack,52,Alteryx,excellent,Full Stack
+913,66123848c478ba97b06a6e25,FullDataForge,148,Tableau,good,Full Stack
+914,66123848c478ba97b06a6e26,DataHorizon,146,Snowflake,average,Full Stack
+915,66123848c478ba97b06a6e26,DataForgeX,55,Tableau,excellent,Data
+916,66123848c478ba97b06a6e27,CodeCraftsman,97,Javascript,excellent,Data
+917,66123848c478ba97b06a6e27,PixelPioneer,62,Javascript,good,Full Stack
+918,66123848c478ba97b06a6e28,PipelinePro,138,Angular,good,Data
+919,66123848c478ba97b06a6e28,WebWizardry,89,AWS Lambda,average,Data
+920,66123848c478ba97b06a6e29,DataStack,83,Tableau,good,Data
+921,66123848c478ba97b06a6e29,CodeCrafter,63,Javascript,average,Data
+922,66123849c478ba97b06a6e2a,ByteBridge,98,AWS Lambda,excellent,Data
+923,66123849c478ba97b06a6e2a,DataStacker,88,Power BI,good,Data
+924,66123849c478ba97b06a6e2b,DataByteForge,62,Power BI,average,Data
+925,66123849c478ba97b06a6e2b,TrendTerra,142,Javascript,excellent,Full Stack
+926,66123849c478ba97b06a6e2c,AppArchitect,61,Snowflake,good,Data
+927,66123849c478ba97b06a6e2c,StackScope,123,Power BI,excellent,Full Stack
+928,66123849c478ba97b06a6e2d,DataSavvyStack,55,Python,excellent,Full Stack
+929,66123849c478ba97b06a6e2d,InsightForgeX,144,Javascript,average,Full Stack
+930,66123849c478ba97b06a6e2e,InsightForge,67,Tableau,average,Data
+931,66123849c478ba97b06a6e2e,DataTrekker,117,Power BI,good,Data
+932,66123849c478ba97b06a6e2f,DataNexus,127,Python,average,Data
+933,66123849c478ba97b06a6e2f,FullTrendTrack,149,Snowflake,average,Data
+934,66123849c478ba97b06a6e30,DataPulse,111,Python,good,Data
+935,66123849c478ba97b06a6e30,AnalyticaPro,127,Angular,good,Data
+936,66123849c478ba97b06a6e31,TrendSpotter,98,ADF,good,Full Stack
+937,66123849c478ba97b06a6e31,AnalyzeStack,104,SQL,average,Data
+938,66123849c478ba97b06a6e32,PipelinePioneer,139,Snowflake,good,Full Stack
+939,66123849c478ba97b06a6e32,DataCraftsman,82,SQL,average,Full Stack
+940,66123849c478ba97b06a6e33,DataWave,83,Javascript,average,Full Stack
+941,66123849c478ba97b06a6e33,AppArchitect,80,Alteryx,good,Data
+942,66123849c478ba97b06a6e34,ByteBridgeX,80,Tableau,good,Full Stack
+943,66123849c478ba97b06a6e34,AnalyzeRight,113,Tableau,average,Full Stack
+944,66123849c478ba97b06a6e35,InsightForge,63,Python,excellent,Full Stack
+945,66123849c478ba97b06a6e35,AnalyticaPro,51,AWS Lambda,average,Full Stack
+946,66123849c478ba97b06a6e36,StackStream,136,SQL,excellent,Data
+947,66123849c478ba97b06a6e36,DataCraftsman,94,ADF,excellent,Data
+948,6612384ac478ba97b06a6e37,FullInsightForge,135,Alteryx,good,Full Stack
+949,6612384ac478ba97b06a6e37,DataDevForge,105,Javascript,average,Full Stack
+950,6612384ac478ba97b06a6e38,FullDataForge,92,ADF,good,Data
+951,6612384ac478ba97b06a6e38,DataTrekker,134,SQL,excellent,Full Stack
+952,6612384ac478ba97b06a6e39,DataVista,58,Tableau,average,Full Stack
+953,6612384ac478ba97b06a6e39,PipelinePro,54,Snowflake,good,Full Stack
+954,6612384ac478ba97b06a6e3a,ByteBridgeX,105,React,average,Data
+955,6612384ac478ba97b06a6e3a,CodeCompass,119,ADF,average,Full Stack
+956,6612384ac478ba97b06a6e3b,PixelPioneer,117,Snowflake,good,Data
+957,6612384ac478ba97b06a6e3b,AnalyzeStream,103,SQL,excellent,Full Stack
+958,6612384ac478ba97b06a6e3c,DataFlowX,142,SQL,good,Data
+959,6612384ac478ba97b06a6e3c,DataSavvyInsight,85,Angular,average,Data
+960,6612384ac478ba97b06a6e3d,StackForge,70,Power BI,excellent,Full Stack
+961,6612384ac478ba97b06a6e3d,PipelinePro,74,AWS Lambda,good,Full Stack
+962,6612384ac478ba97b06a6e3e,ByteBridgeX,101,React,average,Data
+963,6612384ac478ba97b06a6e3e,AnalyzeWise,119,Angular,excellent,Full Stack
+964,6612384ac478ba97b06a6e3f,WebWeave,102,SQL,average,Data
+965,6612384ac478ba97b06a6e3f,DataCraftsmanInsight,64,Python,excellent,Data
+966,6612384ac478ba97b06a6e40,DataWave,121,AWS Lambda,good,Data
+967,6612384ac478ba97b06a6e40,StreamSculpt,66,Python,good,Full Stack
+968,6612384ac478ba97b06a6e41,DataCraftsman,145,Alteryx,average,Full Stack
+969,6612384ac478ba97b06a6e41,InsightForge,67,React,average,Full Stack
+970,6612384ac478ba97b06a6e42,PixelPulse,67,Alteryx,excellent,Data
+971,6612384ac478ba97b06a6e42,TechTrek,62,AWS Lambda,excellent,Full Stack
+972,6612384ac478ba97b06a6e43,WebWarp,118,React,excellent,Data
+973,6612384ac478ba97b06a6e43,FullAnalytica,96,Tableau,good,Data
+974,6612384ac478ba97b06a6e44,AppArchitect,116,React,good,Data
+975,6612384ac478ba97b06a6e44,StackStream,95,Snowflake,good,Full Stack
+976,6612384ac478ba97b06a6e45,ByteBridge,126,Tableau,good,Data
+977,6612384ac478ba97b06a6e45,AnalyzeStack,70,Python,excellent,Data
+978,6612384ac478ba97b06a6e46,InsightStream,94,Snowflake,good,Full Stack
+979,6612384ac478ba97b06a6e46,StackCraftsmanData,95,ADF,good,Full Stack
+980,6612384ac478ba97b06a6e47,StackSavvy,93,React,good,Full Stack
+981,6612384ac478ba97b06a6e47,AnalyzeRight,118,Power BI,good,Full Stack
+982,6612384ac478ba97b06a6e48,TechTerra,117,React,excellent,Full Stack
+983,6612384ac478ba97b06a6e48,InsightForge,135,Alteryx,good,Full Stack
+984,6612384ac478ba97b06a6e49,DataScope,68,Alteryx,average,Data
+985,6612384ac478ba97b06a6e49,StreamSavvy,114,Python,average,Full Stack
+986,6612384ac478ba97b06a6e4a,TechTerra,66,React,good,Full Stack
+987,6612384ac478ba97b06a6e4a,FullInsightForge,80,Angular,excellent,Data
+988,6612384ac478ba97b06a6e4b,AnalyzeAll,86,Snowflake,excellent,Data
+989,6612384ac478ba97b06a6e4b,PipelinePioneer,139,Snowflake,average,Data
+990,6612384bc478ba97b06a6e4c,DataHorizon,98,AWS Lambda,excellent,Data
+991,6612384bc478ba97b06a6e4c,StackSculptor,73,Tableau,good,Data
+992,6612384bc478ba97b06a6e4d,AppAlchemy,113,Snowflake,good,Data
+993,6612384bc478ba97b06a6e4d,CodeCompass,65,ADF,good,Data
+994,6612384bc478ba97b06a6e4e,StackSavvy,59,ADF,average,Data
+995,6612384bc478ba97b06a6e4e,DataVista,136,Javascript,average,Full Stack
+996,6612384bc478ba97b06a6e4f,DevForge,74,ADF,good,Full Stack
+997,6612384bc478ba97b06a6e4f,ByteBlast,105,AWS Lambda,good,Full Stack
+998,6612384bc478ba97b06a6e50,DataSavvyStack,106,Javascript,average,Full Stack
+999,6612384bc478ba97b06a6e50,AnalyticsPulse,61,AWS Lambda,average,Full Stack
+1000,6612384bc478ba97b06a6e51,WebWarp,122,Angular,good,Data
+1001,6612384bc478ba97b06a6e51,WebWarp,131,Javascript,good,Full Stack
+1002,6612384bc478ba97b06a6e52,AnalyzeWise,73,Javascript,average,Data
+1003,6612384bc478ba97b06a6e52,InsightBuilder,80,Tableau,good,Data
+1004,6612384bc478ba97b06a6e53,CodeCompass,72,ADF,excellent,Full Stack
+1005,6612384bc478ba97b06a6e53,DataSculptor,83,Tableau,average,Full Stack
+1006,6612384bc478ba97b06a6e54,DataNexus,51,Python,excellent,Data
+1007,6612384bc478ba97b06a6e54,ByteBridgeX,133,Tableau,good,Data
+1008,6612384bc478ba97b06a6e55,CodeCraftsmanInsight,60,Power BI,excellent,Data
+1009,6612384bc478ba97b06a6e55,DataCraftsmanInsight,137,React,average,Data
+1010,6612384bc478ba97b06a6e56,FullTechTrek,61,Angular,average,Full Stack
+1011,6612384bc478ba97b06a6e56,DataHorizon,150,Javascript,average,Full Stack
+1012,6612384bc478ba97b06a6e57,TrendTerra,114,SQL,excellent,Full Stack
+1013,6612384bc478ba97b06a6e57,InsightStreamX,135,Tableau,excellent,Full Stack
+1014,6612384bc478ba97b06a6e58,FullTrendTrack,105,Javascript,average,Data
+1015,6612384bc478ba97b06a6e58,ByteBridgeX,101,Alteryx,excellent,Full Stack
+1016,6612384bc478ba97b06a6e59,InsightStreamX,63,ADF,good,Full Stack
+1017,6612384bc478ba97b06a6e59,StreamSculpt,52,ADF,excellent,Full Stack
+1018,6612384bc478ba97b06a6e5a,FullDataForge,144,Snowflake,excellent,Full Stack
+1019,6612384bc478ba97b06a6e5a,DataHorizon,97,Alteryx,average,Data
+1020,6612384bc478ba97b06a6e5b,FullDataForge,133,SQL,excellent,Full Stack
+1021,6612384bc478ba97b06a6e5b,AnalyticaPro,62,ADF,excellent,Full Stack
+1022,6612384bc478ba97b06a6e5c,CodeCraftsmanData,82,Angular,average,Full Stack
+1023,6612384bc478ba97b06a6e5c,WebWizardry,95,SQL,excellent,Data
+1024,6612384bc478ba97b06a6e5d,AnalyzeAll,127,Power BI,average,Full Stack
+1025,6612384bc478ba97b06a6e5d,PipelinePro,102,SQL,excellent,Full Stack
+1026,6612384cc478ba97b06a6e5e,StackSavvy,115,Power BI,good,Full Stack
+1027,6612384cc478ba97b06a6e5e,DevForge,145,Angular,average,Data
+1028,6612384cc478ba97b06a6e5f,InsightGenius,66,Power BI,good,Data
+1029,6612384cc478ba97b06a6e5f,DataSavvyInsight,98,React,good,Full Stack
+1030,6612384cc478ba97b06a6e60,InsightBuilder,78,Python,excellent,Full Stack
+1031,6612384cc478ba97b06a6e60,FullTrendTrack,114,React,excellent,Data
+1032,6612384cc478ba97b06a6e61,ByteBridge,142,React,average,Data
+1033,6612384cc478ba97b06a6e61,DataByteForge,144,Angular,good,Data
+1034,6612384cc478ba97b06a6e62,CodeCraftsmanData,119,ADF,average,Full Stack
+1035,6612384cc478ba97b06a6e62,TrendTrek,63,React,good,Data
+1036,6612384cc478ba97b06a6e63,StackStream,62,Tableau,average,Full Stack
+1037,6612384cc478ba97b06a6e63,InsightForge,92,Javascript,good,Data
+1038,6612384cc478ba97b06a6e64,TrendTerra,54,Tableau,excellent,Full Stack
+1039,6612384cc478ba97b06a6e64,StackScope,116,Angular,good,Full Stack
+1040,6612384cc478ba97b06a6e65,DataVista,90,Angular,average,Data
+1041,6612384cc478ba97b06a6e65,StackStream,97,Power BI,excellent,Data
+1042,6612384cc478ba97b06a6e66,FullTrendTrack,71,AWS Lambda,excellent,Data
+1043,6612384cc478ba97b06a6e66,AppArchitect,96,AWS Lambda,average,Data
+1044,6612384dc478ba97b06a6e67,CodeCraftsmanX,67,Tableau,excellent,Data
+1045,6612384dc478ba97b06a6e67,InsightBuilder,141,SQL,average,Data
+1046,6612384dc478ba97b06a6e68,PixelPioneer,50,SQL,excellent,Full Stack
+1047,6612384dc478ba97b06a6e68,AnalyzeAll,101,Snowflake,excellent,Full Stack
+1048,6612384dc478ba97b06a6e69,DataWarp,128,Python,average,Data
+1049,6612384dc478ba97b06a6e69,AppAlchemy,110,React,excellent,Full Stack
+1050,6612384dc478ba97b06a6e6a,CodeCraftsmanX,76,Javascript,excellent,Data
+1051,6612384dc478ba97b06a6e6a,TrendSpotter,80,AWS Lambda,average,Full Stack
+1052,6612384dc478ba97b06a6e6b,AnalyzeStream,118,React,good,Full Stack
+1053,6612384dc478ba97b06a6e6b,PipelinePioneer,62,Tableau,average,Data
+1054,6612384dc478ba97b06a6e6c,InsightStream,94,Snowflake,good,Data
+1055,6612384dc478ba97b06a6e6c,ETLArchitect,80,ADF,good,Data
+1056,6612384dc478ba97b06a6e6d,DataScope,71,SQL,average,Full Stack
+1057,6612384dc478ba97b06a6e6d,DataScope,93,Snowflake,average,Full Stack
+1058,6612384dc478ba97b06a6e6e,StreamSavvy,106,Python,excellent,Data
+1059,6612384dc478ba97b06a6e6e,FlowForge,117,Tableau,good,Data
+1060,6612384dc478ba97b06a6e6f,FullDataNexus,90,ADF,good,Data
+1061,6612384dc478ba97b06a6e6f,DataStacker,74,React,average,Full Stack
+1062,6612384dc478ba97b06a6e70,DataScope,125,React,average,Full Stack
+1063,6612384dc478ba97b06a6e70,DataTrekker,61,React,average,Data
+1064,6612384ec478ba97b06a6e71,AnalyzeStack,142,SQL,average,Data
+1065,6612384ec478ba97b06a6e71,DataDriven,106,SQL,average,Full Stack
+1066,6612384ec478ba97b06a6e72,DataDynamo,117,ADF,good,Data
+1067,6612384ec478ba97b06a6e72,AnalyticsPulse,81,Tableau,good,Full Stack
+1068,6612384ec478ba97b06a6e73,FullDataNexus,113,Snowflake,excellent,Data
+1069,6612384ec478ba97b06a6e73,FlowFlex,53,ADF,good,Full Stack
+1070,6612384ec478ba97b06a6e74,FullDataInsight,88,Snowflake,excellent,Full Stack
+1071,6612384ec478ba97b06a6e74,StackSculptor,53,Python,good,Data
+1072,6612384ec478ba97b06a6e75,CodeCraftsmanX,58,Snowflake,average,Full Stack
+1073,6612384ec478ba97b06a6e75,PipelinePro,117,React,average,Full Stack
+1074,6612384ec478ba97b06a6e76,TrendTerra,84,React,excellent,Data
+1075,6612384ec478ba97b06a6e76,AnalyzeWise,59,Angular,average,Full Stack
+1076,6612384ec478ba97b06a6e77,DataFlowX,147,Javascript,good,Data
+1077,6612384ec478ba97b06a6e77,TrendTrack,126,Python,excellent,Full Stack
+1078,6612384ec478ba97b06a6e78,DataCraftsman,80,ADF,excellent,Data
+1079,6612384ec478ba97b06a6e78,DataPulse,71,Alteryx,average,Full Stack
+1080,6612384fc478ba97b06a6e79,DataDriven,78,Python,good,Data
+1081,6612384fc478ba97b06a6e79,StackForge,122,Snowflake,average,Full Stack
+1082,6612384fc478ba97b06a6e7a,InsightBuilder,56,ADF,good,Data
+1083,6612384fc478ba97b06a6e7a,DataDriven,83,Python,good,Full Stack
+1084,6612384fc478ba97b06a6e7b,FullDataInsight,132,Alteryx,average,Data
+1085,6612384fc478ba97b06a6e7b,StreamSmith,143,Tableau,excellent,Data
+1086,6612384fc478ba97b06a6e7c,AnalyzeWise,121,Python,excellent,Full Stack
+1087,6612384fc478ba97b06a6e7c,ByteBridge,132,Power BI,excellent,Data
+1088,6612384fc478ba97b06a6e7d,DataCraftsmanX,141,AWS Lambda,good,Data
+1089,6612384fc478ba97b06a6e7d,AnalyzeWise,143,Python,good,Full Stack
+1090,6612384fc478ba97b06a6e7e,DevDynamo,138,ADF,average,Data
+1091,6612384fc478ba97b06a6e7e,StackSavvy,73,ADF,excellent,Full Stack
+1092,6612384fc478ba97b06a6e7f,DataForgeX,74,SQL,excellent,Data
+1093,6612384fc478ba97b06a6e7f,InsightSavvy,89,AWS Lambda,excellent,Data
+1094,6612384fc478ba97b06a6e80,DataByteForge,69,Tableau,average,Data
+1095,6612384fc478ba97b06a6e80,CodeCraftsmanInsight,100,Snowflake,excellent,Data
+1096,6612384fc478ba97b06a6e81,InsightStream,83,Angular,good,Data
+1097,6612384fc478ba97b06a6e81,PipelinePioneer,101,Tableau,average,Data
+1098,6612384fc478ba97b06a6e82,ByteBridge,72,Alteryx,excellent,Data
+1099,6612384fc478ba97b06a6e82,InsightStreamX,107,Tableau,average,Data
+1100,6612384fc478ba97b06a6e83,AnalyzeAll,53,Tableau,excellent,Full Stack
+1101,6612384fc478ba97b06a6e83,WebWizardry,56,SQL,average,Data
+1102,6612384fc478ba97b06a6e84,StackStream,62,SQL,average,Data
+1103,6612384fc478ba97b06a6e84,FullStackInsight,114,Tableau,average,Data
+1104,6612384fc478ba97b06a6e85,StackForge,66,Power BI,good,Full Stack
+1105,6612384fc478ba97b06a6e85,PipelinePro,119,Python,excellent,Data
+1106,6612384fc478ba97b06a6e86,CodeCraftsmanX,64,Angular,average,Full Stack
+1107,6612384fc478ba97b06a6e86,FullTechTrek,86,ADF,good,Full Stack
+1108,6612384fc478ba97b06a6e87,StackSavvy,104,Snowflake,average,Full Stack
+1109,6612384fc478ba97b06a6e87,CodeCraftsman,102,SQL,excellent,Full Stack
+1110,66123850c478ba97b06a6e88,PipelinePro,86,Angular,average,Full Stack
+1111,66123850c478ba97b06a6e88,DataWarp,63,SQL,average,Data
+1112,66123850c478ba97b06a6e89,DataCraftsmanInsight,108,Python,average,Full Stack
+1113,66123850c478ba97b06a6e89,FullAnalytica,150,Alteryx,average,Data
+1114,66123850c478ba97b06a6e8a,StackStream,74,Python,excellent,Full Stack
+1115,66123850c478ba97b06a6e8a,InsightSavvy,97,Javascript,good,Data
+1116,66123850c478ba97b06a6e8b,CodeCraftsmanInsight,117,Alteryx,good,Full Stack
+1117,66123850c478ba97b06a6e8b,CodeCraftsmanData,148,React,good,Full Stack
+1118,66123850c478ba97b06a6e8c,AnalyzeAll,126,Tableau,excellent,Data
+1119,66123850c478ba97b06a6e8c,InsightSavvy,138,Angular,average,Full Stack
+1120,66123850c478ba97b06a6e8d,DataSavvyStack,116,Angular,good,Full Stack
+1121,66123850c478ba97b06a6e8d,DataSavvyStack,101,Power BI,excellent,Full Stack
+1122,66123850c478ba97b06a6e8e,DataDynamo,138,SQL,good,Full Stack
+1123,66123850c478ba97b06a6e8e,InsightForge,52,ADF,average,Full Stack
+1124,66123850c478ba97b06a6e8f,DataTrekker,142,SQL,excellent,Full Stack
+1125,66123850c478ba97b06a6e8f,AnalyticsPulse,126,AWS Lambda,good,Data
+1126,66123850c478ba97b06a6e90,ETLArchitect,92,Tableau,average,Data
+1127,66123850c478ba97b06a6e90,StackCraftsmanData,139,React,good,Full Stack
+1128,66123850c478ba97b06a6e91,DataDevForge,101,Python,average,Data
+1129,66123850c478ba97b06a6e91,DataWarp,91,Alteryx,good,Full Stack
+1130,66123850c478ba97b06a6e92,FullInsightForge,142,Python,good,Full Stack
+1131,66123850c478ba97b06a6e92,TrendTrek,93,Angular,average,Full Stack
+1132,66123850c478ba97b06a6e93,InsightForgeX,93,Javascript,good,Data
+1133,66123850c478ba97b06a6e93,DataByteForge,94,AWS Lambda,average,Data
+1134,66123850c478ba97b06a6e94,FullDataForge,109,Angular,excellent,Full Stack
+1135,66123850c478ba97b06a6e94,DataDriven,121,Alteryx,excellent,Data
+1136,66123850c478ba97b06a6e95,DataDevForge,144,Python,excellent,Full Stack
+1137,66123850c478ba97b06a6e95,AnalyzeStack,105,AWS Lambda,good,Data
+1138,66123850c478ba97b06a6e96,StreamStack,124,Python,good,Full Stack
+1139,66123850c478ba97b06a6e96,DataCraftsmanX,63,ADF,good,Full Stack
+1140,66123850c478ba97b06a6e97,FullDataInsight,118,Python,average,Data
+1141,66123850c478ba97b06a6e97,FullDataInsight,107,ADF,good,Data
+1142,66123850c478ba97b06a6e98,InsightStreamX,53,Javascript,good,Data
+1143,66123850c478ba97b06a6e98,FullStackInsight,79,SQL,average,Full Stack
+1144,66123850c478ba97b06a6e99,StackStream,67,Python,excellent,Full Stack
+1145,66123850c478ba97b06a6e99,DataCraftsmanX,68,Tableau,average,Data
+1146,66123850c478ba97b06a6e9a,DevDynamo,143,Tableau,good,Data
+1147,66123850c478ba97b06a6e9a,WebWarp,80,Python,excellent,Data
+1148,66123851c478ba97b06a6e9b,DataHorizon,63,React,good,Full Stack
+1149,66123851c478ba97b06a6e9b,FullStreamSculpt,70,Alteryx,excellent,Full Stack
+1150,66123851c478ba97b06a6e9c,FullInsightForge,68,Angular,good,Data
+1151,66123851c478ba97b06a6e9c,AnalyticaPro,72,SQL,average,Full Stack
+1152,66123851c478ba97b06a6e9d,StackForge,68,Angular,average,Full Stack
+1153,66123851c478ba97b06a6e9d,StackScope,122,Power BI,average,Full Stack
+1154,66123851c478ba97b06a6e9e,AnalytixPro,137,AWS Lambda,good,Full Stack
+1155,66123851c478ba97b06a6e9e,StackSpotter,56,Alteryx,excellent,Full Stack
+1156,66123851c478ba97b06a6e9f,ETLGenius,66,Power BI,good,Full Stack
+1157,66123851c478ba97b06a6e9f,CodeCraftsman,94,ADF,good,Data
+1158,66123851c478ba97b06a6ea0,InsightStream,110,Snowflake,excellent,Data
+1159,66123851c478ba97b06a6ea0,StackSavvy,133,ADF,good,Data
+1160,66123851c478ba97b06a6ea1,DataCraftsman,124,React,excellent,Data
+1161,66123851c478ba97b06a6ea1,DataTrekker,117,Alteryx,good,Full Stack
+1162,66123851c478ba97b06a6ea2,StreamSmith,107,AWS Lambda,good,Data
+1163,66123851c478ba97b06a6ea2,StackStream,60,Snowflake,excellent,Full Stack
+1164,66123851c478ba97b06a6ea3,DataTrekker,68,Python,good,Data
+1165,66123851c478ba97b06a6ea3,StackSavvyInsight,74,AWS Lambda,average,Data
+1166,66123851c478ba97b06a6ea4,StackStream,56,Angular,excellent,Data
+1167,66123851c478ba97b06a6ea4,StackForge,104,ADF,excellent,Full Stack
+1168,66123851c478ba97b06a6ea5,FlowForge,144,ADF,excellent,Data
+1169,66123851c478ba97b06a6ea5,TechTrek,142,SQL,excellent,Full Stack
+1170,66123851c478ba97b06a6ea6,AnalyzeStack,135,ADF,excellent,Full Stack
+1171,66123851c478ba97b06a6ea6,AppArchitect,82,Alteryx,good,Full Stack
+1172,66123851c478ba97b06a6ea7,FullStackInsight,135,Snowflake,good,Full Stack
+1173,66123851c478ba97b06a6ea7,DataHorizon,84,AWS Lambda,good,Full Stack
+1174,66123852c478ba97b06a6ea8,StackScope,65,Alteryx,good,Full Stack
+1175,66123852c478ba97b06a6ea8,DataCraftsmanX,123,Snowflake,excellent,Full Stack
+1176,66123852c478ba97b06a6ea9,FullStackInsight,86,Alteryx,excellent,Full Stack
+1177,66123852c478ba97b06a6ea9,StackStream,126,Alteryx,average,Full Stack
+1178,66123852c478ba97b06a6eaa,StreamSculpt,99,Tableau,average,Data
+1179,66123852c478ba97b06a6eaa,StreamSavvy,60,Alteryx,excellent,Data
+1180,66123852c478ba97b06a6eab,FullDataForge,120,React,average,Full Stack
+1181,66123852c478ba97b06a6eab,InsightSavvy,127,Power BI,excellent,Full Stack
+1182,66123852c478ba97b06a6eac,DataSculptor,139,Power BI,good,Full Stack
+1183,66123852c478ba97b06a6eac,InsightStream,141,React,excellent,Data
+1184,66123852c478ba97b06a6ead,PixelForge,78,Tableau,average,Data
+1185,66123852c478ba97b06a6ead,DataVista,61,SQL,excellent,Full Stack
+1186,66123852c478ba97b06a6eae,ByteBlast,95,Power BI,good,Data
+1187,66123852c478ba97b06a6eae,StreamBuilder,114,Power BI,excellent,Data
+1188,66123852c478ba97b06a6eaf,DataForge,87,AWS Lambda,excellent,Full Stack
+1189,66123852c478ba97b06a6eaf,AnalyzeStream,132,React,average,Data
+1190,66123852c478ba97b06a6eb0,ETLGenius,142,Snowflake,good,Data
+1191,66123852c478ba97b06a6eb0,DevDynamo,124,SQL,average,Data
+1192,66123852c478ba97b06a6eb1,ETLGenius,150,React,average,Data
+1193,66123852c478ba97b06a6eb1,StackSculptor,122,Snowflake,average,Data
+1194,66123852c478ba97b06a6eb2,InsightStack,63,SQL,excellent,Data
+1195,66123852c478ba97b06a6eb2,DataSculptor,149,React,excellent,Data
+1196,66123852c478ba97b06a6eb3,ByteBridgeData,122,Angular,average,Full Stack
+1197,66123852c478ba97b06a6eb3,DataTrekker,115,Javascript,average,Full Stack
+1198,66123852c478ba97b06a6eb4,CodeCraftsmanX,117,ADF,good,Full Stack
+1199,66123852c478ba97b06a6eb4,InsightStream,72,SQL,average,Full Stack
+1200,66123853c478ba97b06a6eb5,Insightify,123,Javascript,excellent,Data
+1201,66123853c478ba97b06a6eb5,DevForge,127,AWS Lambda,good,Full Stack
+1202,66123853c478ba97b06a6eb6,DataPulse,84,Alteryx,good,Data
+1203,66123853c478ba97b06a6eb6,StreamBuilder,100,Python,excellent,Data
+1204,66123853c478ba97b06a6eb7,StackStream,105,React,good,Full Stack
+1205,66123853c478ba97b06a6eb7,DataNexus,124,Tableau,average,Data
+1206,66123853c478ba97b06a6eb8,AnalyzeByte,101,Snowflake,average,Data
+1207,66123853c478ba97b06a6eb8,DataVista,133,Angular,excellent,Full Stack
+1208,66123853c478ba97b06a6eb9,TrendSpotter,105,Tableau,excellent,Full Stack
+1209,66123853c478ba97b06a6eb9,DataForgeX,132,Javascript,average,Data
+1210,66123853c478ba97b06a6eba,CodeCraftsmanInsight,84,Tableau,good,Full Stack
+1211,66123853c478ba97b06a6eba,ByteBridgeData,144,Power BI,excellent,Full Stack
+1212,66123853c478ba97b06a6ebb,StreamSculpt,145,React,excellent,Data
+1213,66123853c478ba97b06a6ebb,AppArchitect,98,Javascript,good,Data
+1214,66123853c478ba97b06a6ebc,FullAnalytica,98,Javascript,excellent,Data
+1215,66123853c478ba97b06a6ebc,TechTrek,144,Alteryx,average,Data
+1216,66123853c478ba97b06a6ebd,DataForgeX,126,Snowflake,average,Full Stack
+1217,66123853c478ba97b06a6ebd,StreamSavvy,128,Power BI,excellent,Full Stack
+1218,66123853c478ba97b06a6ebe,DataCraftsmanInsight,56,Angular,excellent,Data
+1219,66123853c478ba97b06a6ebe,DataTrekker,135,AWS Lambda,average,Data
+1220,66123853c478ba97b06a6ebf,DataCraftsmanX,54,Python,good,Data
+1221,66123853c478ba97b06a6ebf,PipelinePro,65,SQL,excellent,Full Stack
+1222,66123853c478ba97b06a6ec0,DataNexus,86,Javascript,excellent,Data
+1223,66123853c478ba97b06a6ec0,StackForge,138,Snowflake,average,Data
+1224,66123853c478ba97b06a6ec1,CodeCrafter,82,Python,excellent,Full Stack
+1225,66123853c478ba97b06a6ec1,ByteBlast,88,ADF,good,Full Stack
+1226,66123853c478ba97b06a6ec2,FullStreamSculpt,136,Alteryx,average,Full Stack
+1227,66123853c478ba97b06a6ec2,PixelPioneer,148,Snowflake,average,Data
+1228,66123853c478ba97b06a6ec3,AnalyzeStack,97,React,excellent,Full Stack
+1229,66123853c478ba97b06a6ec3,StackScope,81,AWS Lambda,excellent,Data
+1230,66123853c478ba97b06a6ec4,InsightBuilder,91,Tableau,good,Data
+1231,66123853c478ba97b06a6ec4,FullStackInsight,86,Tableau,good,Full Stack
+1232,66123853c478ba97b06a6ec5,InsightSavvy,85,SQL,good,Full Stack
+1233,66123853c478ba97b06a6ec5,FullInsightForge,128,Alteryx,good,Full Stack
+1234,66123853c478ba97b06a6ec6,StackStream,117,Tableau,average,Full Stack
+1235,66123853c478ba97b06a6ec6,InsightForgeX,117,Alteryx,good,Data
+1236,66123853c478ba97b06a6ec7,ByteBridge,96,Tableau,average,Data
+1237,66123853c478ba97b06a6ec7,DataHorizon,140,Angular,excellent,Full Stack
+1238,66123853c478ba97b06a6ec8,FullInsightForge,117,Power BI,excellent,Full Stack
+1239,66123853c478ba97b06a6ec8,DataForge,59,Javascript,good,Full Stack
+1240,66123853c478ba97b06a6ec9,DataSculptor,61,Python,excellent,Data
+1241,66123853c478ba97b06a6ec9,DataVista,136,Angular,excellent,Full Stack
+1242,66123854c478ba97b06a6eca,FullStreamSculpt,148,React,average,Data
+1243,66123854c478ba97b06a6eca,CodeCrafter,134,Python,excellent,Data
+1244,66123854c478ba97b06a6ecb,PipelinePioneer,94,Alteryx,excellent,Data
+1245,66123854c478ba97b06a6ecb,TechTerra,135,Snowflake,good,Full Stack
+1246,66123854c478ba97b06a6ecc,AnalyzeRight,144,Python,average,Data
+1247,66123854c478ba97b06a6ecc,CodeCraftsmanX,143,Tableau,excellent,Full Stack
+1248,66123854c478ba97b06a6ecd,WebWizardry,128,Javascript,average,Data
+1249,66123854c478ba97b06a6ecd,ETLArchitect,109,Power BI,excellent,Data
+1250,66123854c478ba97b06a6ece,AppAlchemy,71,Power BI,excellent,Data
+1251,66123854c478ba97b06a6ece,StackSpotter,103,ADF,average,Data
+1252,66123854c478ba97b06a6ecf,DataTrekker,70,AWS Lambda,excellent,Full Stack
+1253,66123854c478ba97b06a6ecf,AppAlchemy,111,Angular,average,Full Stack
+1254,66123854c478ba97b06a6ed0,FullDataInsight,130,Power BI,good,Data
+1255,66123854c478ba97b06a6ed0,StackSavvyInsight,103,Javascript,average,Full Stack
+1256,66123854c478ba97b06a6ed1,CodeCraftsman,101,Power BI,excellent,Data
+1257,66123854c478ba97b06a6ed1,DataPulse,50,React,good,Data
+1258,66123854c478ba97b06a6ed2,PixelForge,128,React,excellent,Data
+1259,66123854c478ba97b06a6ed2,ETLGenius,129,SQL,excellent,Full Stack
+1260,66123854c478ba97b06a6ed3,StreamSavvy,52,AWS Lambda,excellent,Full Stack
+1261,66123854c478ba97b06a6ed3,DevForge,67,ADF,good,Data
+1262,66123854c478ba97b06a6ed4,InsightGenius,141,SQL,average,Full Stack
+1263,66123854c478ba97b06a6ed4,DataWave,66,Power BI,excellent,Full Stack
+1264,66123854c478ba97b06a6ed5,StreamSculpt,92,AWS Lambda,good,Full Stack
+1265,66123854c478ba97b06a6ed5,FullAnalytica,90,AWS Lambda,good,Data
+1266,66123854c478ba97b06a6ed6,DataCraftsmanInsight,111,Alteryx,excellent,Data
+1267,66123854c478ba97b06a6ed6,DataMason,75,Alteryx,average,Data
+1268,66123854c478ba97b06a6ed7,AnalyzeRight,102,Tableau,good,Full Stack
+1269,66123854c478ba97b06a6ed7,DataTrekker,113,SQL,average,Full Stack
+1270,66123854c478ba97b06a6ed8,DataVista,71,Python,excellent,Full Stack
+1271,66123854c478ba97b06a6ed8,DataWave,64,Python,average,Full Stack
+1272,66123854c478ba97b06a6ed9,WebWarp,118,Alteryx,average,Data
+1273,66123854c478ba97b06a6ed9,DataForge,55,ADF,excellent,Data
+1274,66123854c478ba97b06a6eda,AnalyticaPro,102,React,average,Full Stack
+1275,66123854c478ba97b06a6eda,DataSculptor,60,ADF,good,Data
+1276,66123854c478ba97b06a6edb,PixelPioneer,147,ADF,excellent,Data
+1277,66123854c478ba97b06a6edb,CodeCraftsmanX,125,Python,excellent,Full Stack
+1278,66123854c478ba97b06a6edc,DataStack,118,SQL,average,Data
+1279,66123854c478ba97b06a6edc,WebWeave,78,Python,excellent,Full Stack
+1280,66123854c478ba97b06a6edd,ByteBlast,113,Javascript,average,Full Stack
+1281,66123854c478ba97b06a6edd,StreamSavvy,107,SQL,average,Data
+1282,66123855c478ba97b06a6ede,StackStream,70,Python,excellent,Data
+1283,66123855c478ba97b06a6ede,ByteBlast,96,ADF,good,Data
+1284,66123855c478ba97b06a6edf,AnalyzeWise,107,AWS Lambda,excellent,Full Stack
+1285,66123855c478ba97b06a6edf,TechTrek,104,Python,excellent,Data
+1286,66123855c478ba97b06a6ee0,StackScope,86,React,good,Full Stack
+1287,66123855c478ba97b06a6ee0,InsightStream,52,Python,good,Data
+1288,66123855c478ba97b06a6ee1,FullTrendTrack,125,Angular,excellent,Data
+1289,66123855c478ba97b06a6ee1,StackSavvyInsight,113,ADF,excellent,Data
+1290,66123855c478ba97b06a6ee2,DataNexus,85,React,average,Full Stack
+1291,66123855c478ba97b06a6ee2,CodeCraftsman,128,Python,good,Data
+1292,66123855c478ba97b06a6ee3,StackSavvy,96,Tableau,average,Data
+1293,66123855c478ba97b06a6ee3,FlowFlex,76,Power BI,good,Data
+1294,66123855c478ba97b06a6ee4,FullDataNexus,73,Power BI,excellent,Full Stack
+1295,66123855c478ba97b06a6ee4,StreamSculpt,120,SQL,average,Data
+1296,66123855c478ba97b06a6ee5,FullDataInsight,72,Power BI,good,Data
+1297,66123855c478ba97b06a6ee5,CodeCraftsmanX,82,AWS Lambda,good,Data
+1298,66123855c478ba97b06a6ee6,WebWeave,126,Alteryx,good,Data
+1299,66123855c478ba97b06a6ee6,PipelinePro,53,Snowflake,average,Data
+1300,66123855c478ba97b06a6ee7,DataWave,91,React,good,Data
+1301,66123855c478ba97b06a6ee7,FullDataForge,94,AWS Lambda,average,Full Stack
+1302,66123855c478ba97b06a6ee8,DataPulse,77,Angular,good,Full Stack
+1303,66123855c478ba97b06a6ee8,StackSpotter,89,ADF,good,Full Stack
+1304,66123855c478ba97b06a6ee9,TechTerra,87,SQL,average,Full Stack
+1305,66123855c478ba97b06a6ee9,PipelinePioneer,134,AWS Lambda,excellent,Data
+1306,66123855c478ba97b06a6eea,DataForge,109,Python,good,Full Stack
+1307,66123855c478ba97b06a6eea,InsightSavvy,53,ADF,average,Full Stack
+1308,66123855c478ba97b06a6eeb,ETLArchitect,68,React,good,Full Stack
+1309,66123855c478ba97b06a6eeb,CodeCraftsmanX,139,SQL,excellent,Full Stack
+1310,66123855c478ba97b06a6eec,DataFlowX,121,Tableau,excellent,Full Stack
+1311,66123855c478ba97b06a6eec,CodeCraftsmanX,140,AWS Lambda,good,Full Stack
+1312,66123855c478ba97b06a6eed,DataSculptor,128,Angular,good,Data
+1313,66123855c478ba97b06a6eed,PixelPulse,105,ADF,average,Full Stack
+1314,66123856c478ba97b06a6eee,FullInsightForge,122,ADF,good,Full Stack
+1315,66123856c478ba97b06a6eee,DataForge,54,Python,excellent,Data
+1316,66123856c478ba97b06a6eef,AnalytixPro,104,Angular,good,Data
+1317,66123856c478ba97b06a6eef,DataCraftsmanInsight,112,Power BI,average,Data
+1318,66123856c478ba97b06a6ef0,TrendTrek,79,ADF,average,Data
+1319,66123856c478ba97b06a6ef0,StackScope,120,ADF,excellent,Full Stack
+1320,66123856c478ba97b06a6ef1,AnalyzeWise,77,Power BI,good,Full Stack
+1321,66123856c478ba97b06a6ef1,ETLArchitect,109,SQL,excellent,Full Stack
+1322,66123856c478ba97b06a6ef2,StackSculptor,67,Tableau,average,Data
+1323,66123856c478ba97b06a6ef2,TechTerra,71,ADF,good,Data
+1324,66123856c478ba97b06a6ef3,DataNexus,74,ADF,average,Full Stack
+1325,66123856c478ba97b06a6ef3,ByteBlast,122,SQL,average,Full Stack
+1326,66123856c478ba97b06a6ef4,DataForgeX,111,ADF,excellent,Data
+1327,66123856c478ba97b06a6ef4,DataNexus,104,Angular,excellent,Full Stack
+1328,66123856c478ba97b06a6ef5,AnalyzeByte,136,Alteryx,average,Data
+1329,66123856c478ba97b06a6ef5,AnalyticaPro,87,Alteryx,average,Data
+1330,66123856c478ba97b06a6ef6,ByteBridgeData,104,Tableau,excellent,Data
+1331,66123856c478ba97b06a6ef6,TrendSpotter,137,ADF,average,Full Stack
+1332,66123856c478ba97b06a6ef7,FullAnalytica,113,SQL,average,Full Stack
+1333,66123856c478ba97b06a6ef7,AnalyticaPro,131,Python,average,Data
+1334,66123856c478ba97b06a6ef8,ByteBlast,72,Tableau,excellent,Full Stack
+1335,66123856c478ba97b06a6ef8,DataForge,57,Tableau,average,Full Stack
+1336,66123856c478ba97b06a6ef9,AppAlchemy,131,SQL,average,Data
+1337,66123856c478ba97b06a6ef9,AppArchitect,113,AWS Lambda,good,Data
+1338,66123856c478ba97b06a6efa,WebWeave,144,Angular,average,Data
+1339,66123856c478ba97b06a6efa,PixelPioneer,145,Angular,excellent,Data
+1340,66123856c478ba97b06a6efb,DataWarp,77,Angular,average,Data
+1341,66123856c478ba97b06a6efb,DataDynamo,60,ADF,excellent,Data
+1342,66123856c478ba97b06a6efc,FullDataInsight,96,Alteryx,average,Data
+1343,66123856c478ba97b06a6efc,StreamSmith,80,Angular,excellent,Data
+1344,66123856c478ba97b06a6efd,DataCraftsmanInsight,129,React,good,Full Stack
+1345,66123856c478ba97b06a6efd,StackSpotter,105,AWS Lambda,excellent,Data
+1346,66123856c478ba97b06a6efe,AnalyzeWise,131,Python,good,Data
+1347,66123856c478ba97b06a6efe,AppAlchemy,80,AWS Lambda,excellent,Data
+1348,66123857c478ba97b06a6eff,CodeCraftsmanInsight,74,Python,average,Data
+1349,66123857c478ba97b06a6eff,InsightBuilder,114,Angular,excellent,Data
+1350,66123857c478ba97b06a6f00,AnalytixPro,85,AWS Lambda,average,Data
+1351,66123857c478ba97b06a6f00,TechTrek,111,Power BI,average,Full Stack
+1352,66123857c478ba97b06a6f01,TechTerra,146,Power BI,average,Data
+1353,66123857c478ba97b06a6f01,DataWave,131,Javascript,average,Data
+1354,66123857c478ba97b06a6f02,PixelForge,90,Tableau,good,Data
+1355,66123857c478ba97b06a6f02,AnalytixPro,94,AWS Lambda,good,Full Stack
+1356,66123857c478ba97b06a6f03,StackStream,82,Tableau,good,Full Stack
+1357,66123857c478ba97b06a6f03,AnalyzeAll,118,Python,good,Full Stack
+1358,66123857c478ba97b06a6f04,StackScope,144,Snowflake,good,Data
+1359,66123857c478ba97b06a6f04,WebWeave,120,Tableau,good,Data
+1360,66123857c478ba97b06a6f05,FullDataForge,60,AWS Lambda,good,Data
+1361,66123857c478ba97b06a6f05,AppArchitect,142,Snowflake,good,Data
+1362,66123857c478ba97b06a6f06,FullDataInsight,142,Snowflake,good,Full Stack
+1363,66123857c478ba97b06a6f06,AppArchitect,51,Tableau,average,Data
+1364,66123857c478ba97b06a6f07,InsightGenius,123,Python,good,Full Stack
+1365,66123857c478ba97b06a6f07,DataForge,104,AWS Lambda,average,Full Stack
+1366,66123857c478ba97b06a6f08,DataForgeX,63,Tableau,good,Full Stack
+1367,66123857c478ba97b06a6f08,StreamSmith,100,ADF,average,Data
+1368,66123857c478ba97b06a6f09,DataCraftsmanX,53,React,good,Full Stack
+1369,66123857c478ba97b06a6f09,CodeCompass,76,SQL,good,Data
+1370,66123857c478ba97b06a6f0a,DataWarp,94,ADF,excellent,Full Stack
+1371,66123857c478ba97b06a6f0a,StackCraftsmanData,114,Alteryx,average,Data
+1372,66123857c478ba97b06a6f0b,DataWave,63,React,average,Full Stack
+1373,66123857c478ba97b06a6f0b,AnalyticaPro,103,Tableau,average,Full Stack
+1374,66123857c478ba97b06a6f0c,DataCraftsmanX,118,AWS Lambda,good,Full Stack
+1375,66123857c478ba97b06a6f0c,AnalyzeByte,73,ADF,good,Full Stack
+1376,66123857c478ba97b06a6f0d,AnalytixPro,100,SQL,good,Full Stack
+1377,66123857c478ba97b06a6f0d,DataStacker,80,React,excellent,Full Stack
+1378,66123857c478ba97b06a6f0e,StackForge,86,Python,good,Data
+1379,66123857c478ba97b06a6f0e,DataStacker,137,Alteryx,excellent,Full Stack
+1380,66123857c478ba97b06a6f0f,PixelPulse,143,React,excellent,Data
+1381,66123857c478ba97b06a6f0f,DataTrekker,116,Javascript,good,Data
+1382,66123857c478ba97b06a6f10,DataScope,65,AWS Lambda,average,Full Stack
+1383,66123857c478ba97b06a6f10,FullDataInsight,135,Python,average,Full Stack
+1384,66123857c478ba97b06a6f11,CodeCraftsmanData,98,Tableau,good,Data
+1385,66123857c478ba97b06a6f11,FullInsightForge,86,Snowflake,average,Data
+1386,66123857c478ba97b06a6f12,InsightForge,84,Angular,average,Full Stack
+1387,66123857c478ba97b06a6f12,FullInsightForge,107,AWS Lambda,excellent,Full Stack
+1388,66123857c478ba97b06a6f13,StackSavvyInsight,126,React,average,Full Stack
+1389,66123857c478ba97b06a6f13,ByteBlast,111,React,average,Full Stack
+1390,66123858c478ba97b06a6f14,PixelPioneer,80,Power BI,good,Data
+1391,66123858c478ba97b06a6f14,DataPulse,55,Angular,good,Full Stack
+1392,66123858c478ba97b06a6f15,ETLGenius,85,Snowflake,good,Data
+1393,66123858c478ba97b06a6f15,DataPulse,68,ADF,good,Full Stack
+1394,66123858c478ba97b06a6f16,DataDevForge,116,Snowflake,average,Data
+1395,66123858c478ba97b06a6f16,ETLArchitect,142,ADF,good,Full Stack
+1396,66123858c478ba97b06a6f17,PipelinePro,149,Javascript,average,Full Stack
+1397,66123858c478ba97b06a6f17,TechTerra,114,Javascript,average,Full Stack
+1398,66123858c478ba97b06a6f18,DataCraftsman,120,AWS Lambda,average,Data
+1399,66123858c478ba97b06a6f18,DataPulse,76,Python,average,Data
+1400,66123858c478ba97b06a6f19,WebWizardry,82,Angular,excellent,Data
+1401,66123858c478ba97b06a6f19,AppArchitect,132,Javascript,excellent,Data
+1402,66123858c478ba97b06a6f1a,StackSavvyInsight,95,AWS Lambda,good,Full Stack
+1403,66123858c478ba97b06a6f1a,DataPulse,78,AWS Lambda,good,Full Stack
+1404,66123858c478ba97b06a6f1b,FullDataNexus,119,Snowflake,excellent,Full Stack
+1405,66123858c478ba97b06a6f1b,InsightGenius,115,Snowflake,good,Full Stack
+1406,66123858c478ba97b06a6f1c,AnalyzeWise,94,React,average,Full Stack
+1407,66123858c478ba97b06a6f1c,InsightStreamX,86,Power BI,excellent,Full Stack
+1408,66123858c478ba97b06a6f1d,DataSavvyStack,133,React,excellent,Data
+1409,66123858c478ba97b06a6f1d,DataForge,118,Snowflake,average,Full Stack
+1410,66123858c478ba97b06a6f1e,StackStream,141,Snowflake,excellent,Data
+1411,66123858c478ba97b06a6f1e,AnalyzeByte,85,AWS Lambda,excellent,Full Stack
+1412,66123858c478ba97b06a6f1f,AnalyzeWise,96,Power BI,excellent,Full Stack
+1413,66123858c478ba97b06a6f1f,AnalyzeByte,76,Python,excellent,Full Stack
+1414,66123858c478ba97b06a6f20,Insightify,120,Javascript,good,Data
+1415,66123858c478ba97b06a6f20,PixelPioneer,93,Angular,excellent,Full Stack
+1416,66123858c478ba97b06a6f21,DataStacker,136,React,excellent,Full Stack
+1417,66123858c478ba97b06a6f21,FullInsightForge,89,SQL,average,Full Stack
+1418,66123859c478ba97b06a6f22,FullAnalytica,115,Alteryx,excellent,Full Stack
+1419,66123859c478ba97b06a6f22,FullDataInsight,111,Angular,average,Full Stack
+1420,66123859c478ba97b06a6f23,PixelForge,139,Javascript,excellent,Data
+1421,66123859c478ba97b06a6f23,AnalyzeByte,137,AWS Lambda,good,Full Stack
+1422,66123859c478ba97b06a6f24,StackSpotter,63,Angular,average,Data
+1423,66123859c478ba97b06a6f24,WebWizardry,66,Angular,good,Data
+1424,66123859c478ba97b06a6f25,StackSavvyInsight,150,Alteryx,good,Full Stack
+1425,66123859c478ba97b06a6f25,DataNexus,102,Python,good,Data
+1426,66123859c478ba97b06a6f26,InsightForgeX,105,Tableau,average,Data
+1427,66123859c478ba97b06a6f26,AnalyticsPulse,105,React,excellent,Full Stack
+1428,66123859c478ba97b06a6f27,PixelPulse,94,Angular,average,Data
+1429,66123859c478ba97b06a6f27,DevForge,147,Alteryx,excellent,Full Stack
+1430,66123859c478ba97b06a6f28,CodeCrafter,60,Python,average,Full Stack
+1431,66123859c478ba97b06a6f28,StackScope,143,SQL,average,Full Stack
+1432,66123859c478ba97b06a6f29,Insightify,113,AWS Lambda,excellent,Full Stack
+1433,66123859c478ba97b06a6f29,FullStackInsight,108,AWS Lambda,good,Data
+1434,66123859c478ba97b06a6f2a,DataDevForge,114,Tableau,excellent,Data
+1435,66123859c478ba97b06a6f2a,DataPulse,59,Javascript,average,Data
+1436,66123859c478ba97b06a6f2b,FullInsightForge,81,SQL,excellent,Full Stack
+1437,66123859c478ba97b06a6f2b,PipelinePro,143,Javascript,average,Full Stack
+1438,66123859c478ba97b06a6f2c,StackStream,130,Alteryx,average,Full Stack
+1439,66123859c478ba97b06a6f2c,FullDataForge,82,Python,excellent,Full Stack
+1440,66123859c478ba97b06a6f2d,AnalyticsPulse,135,Alteryx,good,Data
+1441,66123859c478ba97b06a6f2d,AnalytixPro,54,Javascript,good,Data
+1442,66123859c478ba97b06a6f2e,ByteBridgeX,65,Tableau,average,Data
+1443,66123859c478ba97b06a6f2e,DataForge,126,Power BI,good,Full Stack
+1444,66123859c478ba97b06a6f2f,CodeCraftsman,118,Power BI,excellent,Data
+1445,66123859c478ba97b06a6f2f,InsightSavvy,135,Javascript,average,Data
+1446,6612385ac478ba97b06a6f30,DataCraftsman,97,Javascript,good,Full Stack
+1447,6612385ac478ba97b06a6f30,FullDataForge,126,Angular,excellent,Full Stack
+1448,6612385ac478ba97b06a6f31,PixelPulse,124,Angular,average,Data
+1449,6612385ac478ba97b06a6f31,InsightStack,143,Snowflake,average,Data
+1450,6612385ac478ba97b06a6f32,PixelPulse,141,Alteryx,excellent,Full Stack
+1451,6612385ac478ba97b06a6f32,PixelPulse,100,Python,good,Data
+1452,6612385ac478ba97b06a6f33,StreamStack,109,Tableau,excellent,Full Stack
+1453,6612385ac478ba97b06a6f33,StackScope,141,Tableau,good,Full Stack
+1454,6612385ac478ba97b06a6f34,AnalyticaPro,67,AWS Lambda,good,Data
+1455,6612385ac478ba97b06a6f34,FlowFlex,88,AWS Lambda,good,Data
+1456,6612385ac478ba97b06a6f35,CodeCraftsmanData,148,Javascript,good,Full Stack
+1457,6612385ac478ba97b06a6f35,WebWizardry,142,Snowflake,good,Full Stack
+1458,6612385ac478ba97b06a6f36,CodeCompass,88,Angular,average,Data
+1459,6612385ac478ba97b06a6f36,DataStacker,70,Angular,average,Data
+1460,6612385ac478ba97b06a6f37,AnalyzeRight,77,Snowflake,excellent,Data
+1461,6612385ac478ba97b06a6f37,ByteBlast,149,Tableau,excellent,Full Stack
+1462,6612385ac478ba97b06a6f38,DataForge,144,AWS Lambda,excellent,Data
+1463,6612385ac478ba97b06a6f38,AnalyzeStack,77,SQL,good,Data
+1464,6612385ac478ba97b06a6f39,AppArchitect,55,SQL,good,Data
+1465,6612385ac478ba97b06a6f39,DataForge,136,Alteryx,good,Data
+1466,6612385ac478ba97b06a6f3a,AppAlchemy,99,React,average,Full Stack
+1467,6612385ac478ba97b06a6f3a,DataVista,143,Javascript,good,Full Stack
+1468,6612385ac478ba97b06a6f3b,FullStreamSculpt,51,ADF,good,Full Stack
+1469,6612385ac478ba97b06a6f3b,StackSavvyInsight,136,AWS Lambda,excellent,Full Stack
+1470,6612385bc478ba97b06a6f3c,TrendTrek,77,Power BI,good,Data
+1471,6612385bc478ba97b06a6f3c,ETLArchitect,131,Tableau,average,Data
+1472,6612385bc478ba97b06a6f3d,StackSpotter,59,SQL,good,Full Stack
+1473,6612385bc478ba97b06a6f3d,AppAlchemy,53,Snowflake,good,Data
+1474,6612385bc478ba97b06a6f3e,DataSavvyInsight,87,React,average,Data
+1475,6612385bc478ba97b06a6f3e,DataCraftsman,57,Alteryx,average,Full Stack
+1476,6612385bc478ba97b06a6f3f,DataMason,85,AWS Lambda,average,Data
+1477,6612385bc478ba97b06a6f3f,TrendTerra,91,AWS Lambda,good,Data
+1478,6612385bc478ba97b06a6f40,WebWizardry,139,Python,good,Full Stack
+1479,6612385bc478ba97b06a6f40,ByteBridge,57,Python,average,Data
+1480,6612385bc478ba97b06a6f41,StackScope,124,React,average,Data
+1481,6612385bc478ba97b06a6f41,AnalyticaPro,56,ADF,average,Data
+1482,6612385bc478ba97b06a6f42,StackSavvy,107,Python,excellent,Full Stack
+1483,6612385bc478ba97b06a6f42,DataForgeX,59,Snowflake,good,Full Stack
+1484,6612385bc478ba97b06a6f43,DataForge,108,React,average,Data
+1485,6612385bc478ba97b06a6f43,TrendTrek,97,Angular,excellent,Data
+1486,6612385bc478ba97b06a6f44,InsightStreamX,135,Angular,good,Full Stack
+1487,6612385bc478ba97b06a6f44,InsightStream,82,Python,average,Data
+1488,6612385bc478ba97b06a6f45,DataVista,77,Snowflake,good,Full Stack
+1489,6612385bc478ba97b06a6f45,InsightForgeX,72,Power BI,excellent,Full Stack
+1490,6612385bc478ba97b06a6f46,DataCraftsmanInsight,66,Snowflake,average,Full Stack
+1491,6612385bc478ba97b06a6f46,InsightSavvy,139,ADF,good,Full Stack
+1492,6612385bc478ba97b06a6f47,TrendTerra,136,ADF,good,Data
+1493,6612385bc478ba97b06a6f47,AppArchitect,145,Python,average,Data
+1494,6612385bc478ba97b06a6f48,StackStream,126,Python,excellent,Data
+1495,6612385bc478ba97b06a6f48,StackCraftsmanData,89,Javascript,good,Data
+1496,6612385bc478ba97b06a6f49,FullTechTrek,86,ADF,average,Full Stack
+1497,6612385bc478ba97b06a6f49,AnalytixPro,147,Power BI,average,Full Stack
+1498,6612385bc478ba97b06a6f4a,InsightStack,127,AWS Lambda,average,Full Stack
+1499,6612385bc478ba97b06a6f4a,StackForge,129,ADF,average,Full Stack
+1500,6612385bc478ba97b06a6f4b,DataDriven,131,Power BI,good,Data
+1501,6612385bc478ba97b06a6f4b,TechTrek,145,Javascript,good,Data
+1502,6612385bc478ba97b06a6f4c,CodeCrafter,141,SQL,excellent,Full Stack
+1503,6612385bc478ba97b06a6f4c,DataDriven,102,Power BI,good,Data
+1504,6612385bc478ba97b06a6f4d,InsightStream,142,Power BI,excellent,Data
+1505,6612385bc478ba97b06a6f4d,TechTrek,133,Snowflake,excellent,Full Stack
+1506,6612385bc478ba97b06a6f4e,DataStacker,141,Snowflake,good,Data
+1507,6612385bc478ba97b06a6f4e,InsightForge,82,React,average,Full Stack
+1508,6612385cc478ba97b06a6f4f,FullTrendTrack,74,Python,excellent,Data
+1509,6612385cc478ba97b06a6f4f,PipelinePro,116,Angular,good,Full Stack
+1510,6612385cc478ba97b06a6f50,FlowFlex,144,SQL,good,Data
+1511,6612385cc478ba97b06a6f50,StackForge,93,ADF,good,Full Stack
+1512,6612385cc478ba97b06a6f51,DataWave,53,Angular,excellent,Full Stack
+1513,6612385cc478ba97b06a6f51,StreamSavvy,105,React,excellent,Data
+1514,6612385cc478ba97b06a6f52,DataForge,64,ADF,excellent,Full Stack
+1515,6612385cc478ba97b06a6f52,ByteBridgeData,96,Power BI,average,Data
+1516,6612385cc478ba97b06a6f53,DataByteForge,130,ADF,average,Full Stack
+1517,6612385cc478ba97b06a6f53,StreamBuilder,101,ADF,average,Full Stack
+1518,6612385cc478ba97b06a6f54,PixelForge,141,Angular,good,Data
+1519,6612385cc478ba97b06a6f54,AnalytixPro,54,Power BI,average,Data
+1520,6612385cc478ba97b06a6f55,DataWave,138,AWS Lambda,average,Data
+1521,6612385cc478ba97b06a6f55,DataForge,96,AWS Lambda,average,Full Stack
+1522,6612385cc478ba97b06a6f56,DataCraftsmanInsight,125,AWS Lambda,average,Full Stack
+1523,6612385cc478ba97b06a6f56,FullDataNexus,118,React,average,Full Stack
+1524,6612385cc478ba97b06a6f57,StackSavvy,85,Angular,good,Full Stack
+1525,6612385cc478ba97b06a6f57,DataForge,101,Tableau,excellent,Full Stack
+1526,6612385cc478ba97b06a6f58,StreamStack,134,Angular,good,Data
+1527,6612385cc478ba97b06a6f58,DataPulse,77,Snowflake,average,Full Stack
+1528,6612385cc478ba97b06a6f59,InsightStack,122,Tableau,average,Full Stack
+1529,6612385cc478ba97b06a6f59,InsightForge,58,SQL,excellent,Data
+1530,6612385cc478ba97b06a6f5a,FlowFlex,100,AWS Lambda,good,Data
+1531,6612385cc478ba97b06a6f5a,DataFlowX,138,SQL,excellent,Data
+1532,6612385cc478ba97b06a6f5b,StackSavvyInsight,97,Power BI,average,Data
+1533,6612385cc478ba97b06a6f5b,TrendTrack,58,ADF,good,Full Stack
+1534,6612385cc478ba97b06a6f5c,TrendTrek,68,React,good,Full Stack
+1535,6612385cc478ba97b06a6f5c,DataScope,135,React,average,Full Stack
+1536,6612385cc478ba97b06a6f5d,CodeCraftsmanInsight,50,Snowflake,excellent,Full Stack
+1537,6612385cc478ba97b06a6f5d,PixelPioneer,51,SQL,excellent,Full Stack
+1538,6612385cc478ba97b06a6f5e,PixelForge,121,Angular,good,Data
+1539,6612385cc478ba97b06a6f5e,DataHorizon,65,Alteryx,excellent,Data
+1540,6612385cc478ba97b06a6f5f,TrendTerra,115,AWS Lambda,average,Full Stack
+1541,6612385cc478ba97b06a6f5f,DataTrekker,111,Tableau,good,Data
+1542,6612385dc478ba97b06a6f60,DataForgeX,117,AWS Lambda,average,Full Stack
+1543,6612385dc478ba97b06a6f60,DataSavvyStack,116,React,excellent,Full Stack
+1544,6612385dc478ba97b06a6f61,DataSavvyStack,89,AWS Lambda,average,Full Stack
+1545,6612385dc478ba97b06a6f61,PixelForge,114,Python,average,Full Stack
+1546,6612385dc478ba97b06a6f62,CodeCraftsmanInsight,99,React,excellent,Data
+1547,6612385dc478ba97b06a6f62,StreamBuilder,108,Snowflake,good,Full Stack
+1548,6612385dc478ba97b06a6f63,AnalyticsPulse,140,Power BI,good,Full Stack
+1549,6612385dc478ba97b06a6f63,CodeCompass,103,Snowflake,excellent,Data
+1550,6612385dc478ba97b06a6f64,PixelForge,120,Power BI,average,Full Stack
+1551,6612385dc478ba97b06a6f64,StackCraftsmanData,148,React,good,Data
+1552,6612385dc478ba97b06a6f65,DataTrekker,97,Alteryx,average,Full Stack
+1553,6612385dc478ba97b06a6f65,InsightForgeX,99,Snowflake,average,Data
+1554,6612385dc478ba97b06a6f66,WebWarp,131,Angular,average,Full Stack
+1555,6612385dc478ba97b06a6f66,StackCraftsmanData,120,Javascript,average,Data
+1556,6612385dc478ba97b06a6f67,FlowForge,144,Snowflake,excellent,Full Stack
+1557,6612385dc478ba97b06a6f67,AnalytixPro,137,AWS Lambda,excellent,Full Stack
+1558,6612385dc478ba97b06a6f68,CodeCompass,91,Angular,good,Full Stack
+1559,6612385dc478ba97b06a6f68,FullTechTrek,92,Python,good,Full Stack
+1560,6612385dc478ba97b06a6f69,PixelForge,88,Alteryx,good,Full Stack
+1561,6612385dc478ba97b06a6f69,FlowFlex,53,ADF,good,Data
+1562,6612385dc478ba97b06a6f6a,DataForge,82,Python,good,Full Stack
+1563,6612385dc478ba97b06a6f6a,DataPulse,87,Tableau,average,Data
+1564,6612385dc478ba97b06a6f6b,ETLGenius,118,React,average,Data
+1565,6612385dc478ba97b06a6f6b,DataPulse,90,Javascript,average,Data
+1566,6612385dc478ba97b06a6f6c,InsightGenius,59,React,average,Data
+1567,6612385dc478ba97b06a6f6c,DataMason,69,ADF,good,Data
+1568,6612385dc478ba97b06a6f6d,InsightGenius,122,SQL,excellent,Full Stack
+1569,6612385dc478ba97b06a6f6d,DataSculptor,70,SQL,excellent,Data
+1570,6612385dc478ba97b06a6f6e,StreamSmith,52,Tableau,good,Data
+1571,6612385dc478ba97b06a6f6e,DataForge,117,Python,good,Full Stack
+1572,6612385dc478ba97b06a6f6f,AnalyzeByte,143,Alteryx,excellent,Data
+1573,6612385dc478ba97b06a6f6f,StreamStack,142,Python,good,Data
+1574,6612385dc478ba97b06a6f70,ByteBlast,89,Snowflake,average,Data
+1575,6612385dc478ba97b06a6f70,StackCraftsmanData,54,Javascript,excellent,Data
+1576,6612385dc478ba97b06a6f71,DevDynamo,106,Python,good,Full Stack
+1577,6612385dc478ba97b06a6f71,DevForge,82,AWS Lambda,average,Data
+1578,6612385dc478ba97b06a6f72,DataWarp,76,AWS Lambda,average,Data
+1579,6612385dc478ba97b06a6f72,PipelinePioneer,64,Javascript,excellent,Full Stack
+1580,6612385dc478ba97b06a6f73,DataScope,61,Angular,excellent,Full Stack
+1581,6612385dc478ba97b06a6f73,DataCraftsman,56,React,good,Full Stack
+1582,6612385ec478ba97b06a6f74,WebWarp,150,Alteryx,excellent,Data
+1583,6612385ec478ba97b06a6f74,WebWarp,65,SQL,average,Data
+1584,6612385ec478ba97b06a6f75,ByteBridge,57,Javascript,average,Full Stack
+1585,6612385ec478ba97b06a6f75,AnalyzeWise,119,Tableau,good,Data
+1586,6612385ec478ba97b06a6f76,FullStackInsight,104,Tableau,good,Full Stack
+1587,6612385ec478ba97b06a6f76,FullInsightForge,148,AWS Lambda,excellent,Data
+1588,6612385ec478ba97b06a6f77,PixelForge,139,Python,good,Full Stack
+1589,6612385ec478ba97b06a6f77,DataCraftsmanInsight,61,React,excellent,Data
+1590,6612385ec478ba97b06a6f78,AnalyzeByte,121,Power BI,average,Full Stack
+1591,6612385ec478ba97b06a6f78,ETLGenius,125,Tableau,average,Full Stack
+1592,6612385ec478ba97b06a6f79,StackSculptor,68,Snowflake,good,Full Stack
+1593,6612385ec478ba97b06a6f79,FullTechTrek,70,ADF,excellent,Data
+1594,6612385ec478ba97b06a6f7a,DataSculptor,89,Tableau,good,Data
+1595,6612385ec478ba97b06a6f7a,DataForgeX,145,Angular,average,Data
+1596,6612385ec478ba97b06a6f7b,DataVista,120,ADF,average,Data
+1597,6612385ec478ba97b06a6f7b,DevForge,115,AWS Lambda,good,Full Stack
+1598,6612385ec478ba97b06a6f7c,FullDataInsight,114,Power BI,excellent,Full Stack
+1599,6612385ec478ba97b06a6f7c,TechTerra,104,Alteryx,good,Full Stack
+1600,6612385ec478ba97b06a6f7d,StreamBuilder,146,Javascript,excellent,Full Stack
+1601,6612385ec478ba97b06a6f7d,CodeCraftsman,134,SQL,average,Full Stack
+1602,6612385ec478ba97b06a6f7e,AnalyzeStack,72,Javascript,good,Full Stack
+1603,6612385ec478ba97b06a6f7e,DataTrekker,54,AWS Lambda,good,Full Stack
+1604,6612385ec478ba97b06a6f7f,StreamStack,115,Snowflake,excellent,Full Stack
+1605,6612385ec478ba97b06a6f7f,InsightForgeX,68,Alteryx,excellent,Data
+1606,6612385ec478ba97b06a6f80,ByteBridgeData,59,ADF,good,Data
+1607,6612385ec478ba97b06a6f80,StackSavvy,149,AWS Lambda,good,Full Stack
+1608,6612385ec478ba97b06a6f81,PixelForge,136,ADF,average,Full Stack
+1609,6612385ec478ba97b06a6f81,FullInsightForge,126,Snowflake,excellent,Data
+1610,6612385ec478ba97b06a6f82,StackSavvy,108,Angular,excellent,Full Stack
+1611,6612385ec478ba97b06a6f82,StackForge,57,Tableau,average,Full Stack
+1612,6612385ec478ba97b06a6f83,CodeCraftsman,91,Snowflake,excellent,Data
+1613,6612385ec478ba97b06a6f83,FullInsightForge,127,AWS Lambda,average,Full Stack
+1614,6612385ec478ba97b06a6f84,Insightify,110,Alteryx,average,Data
+1615,6612385ec478ba97b06a6f84,AnalyzeByte,124,AWS Lambda,good,Data
+1616,6612385ec478ba97b06a6f85,AnalyzeRight,66,Python,good,Data
+1617,6612385ec478ba97b06a6f85,PixelPioneer,74,Tableau,average,Full Stack
+1618,6612385fc478ba97b06a6f86,AnalyzeAll,62,Snowflake,average,Full Stack
+1619,6612385fc478ba97b06a6f86,Insightify,69,Tableau,excellent,Full Stack
+1620,6612385fc478ba97b06a6f87,DevForge,128,Tableau,good,Full Stack
+1621,6612385fc478ba97b06a6f87,DataStack,67,Power BI,good,Full Stack
+1622,6612385fc478ba97b06a6f88,ByteBridgeX,147,Javascript,good,Data
+1623,6612385fc478ba97b06a6f88,PixelForge,63,React,average,Data
+1624,6612385fc478ba97b06a6f89,StackStream,133,ADF,excellent,Data
+1625,6612385fc478ba97b06a6f89,StackCraftsmanData,113,Angular,excellent,Full Stack
+1626,6612385fc478ba97b06a6f8a,DataDriven,70,React,average,Full Stack
+1627,6612385fc478ba97b06a6f8a,ByteBridgeX,101,ADF,average,Data
+1628,6612385fc478ba97b06a6f8b,DataMason,97,Angular,good,Data
+1629,6612385fc478ba97b06a6f8b,DataByteForge,114,SQL,excellent,Data
+1630,6612385fc478ba97b06a6f8c,WebWizardry,139,ADF,good,Data
+1631,6612385fc478ba97b06a6f8c,CodeCompass,71,Alteryx,good,Full Stack
+1632,6612385fc478ba97b06a6f8d,AnalyticaPro,96,Javascript,average,Full Stack
+1633,6612385fc478ba97b06a6f8d,StackStream,56,Python,average,Data
+1634,6612385fc478ba97b06a6f8e,AnalyzeRight,110,React,excellent,Data
+1635,6612385fc478ba97b06a6f8e,DataPulse,133,Angular,excellent,Full Stack
+1636,6612385fc478ba97b06a6f8f,CodeCraftsmanInsight,83,Tableau,average,Full Stack
+1637,6612385fc478ba97b06a6f8f,CodeCanvas,126,ADF,average,Data
+1638,6612385fc478ba97b06a6f90,StackScope,88,AWS Lambda,average,Data
+1639,6612385fc478ba97b06a6f90,ETLGenius,135,SQL,average,Data
+1640,6612385fc478ba97b06a6f91,StreamBuilder,99,Snowflake,good,Full Stack
+1641,6612385fc478ba97b06a6f91,AnalyzeStream,62,Tableau,excellent,Data
+1642,6612385fc478ba97b06a6f92,StreamSmith,89,ADF,excellent,Data
+1643,6612385fc478ba97b06a6f92,DataWave,107,ADF,excellent,Data
+1644,6612385fc478ba97b06a6f93,TrendTerra,102,AWS Lambda,good,Full Stack
+1645,6612385fc478ba97b06a6f93,Insightify,130,SQL,excellent,Full Stack
+1646,6612385fc478ba97b06a6f94,ByteBridge,62,Snowflake,average,Data
+1647,6612385fc478ba97b06a6f94,DataSculptor,85,ADF,average,Data
+1648,66123860c478ba97b06a6f95,FullStackInsight,122,Angular,excellent,Data
+1649,66123860c478ba97b06a6f95,DataCraftsmanInsight,122,React,average,Full Stack
+1650,66123860c478ba97b06a6f96,TrendTrek,91,ADF,good,Data
+1651,66123860c478ba97b06a6f96,ByteBridge,136,Snowflake,excellent,Full Stack
+1652,66123860c478ba97b06a6f97,PipelinePioneer,117,ADF,excellent,Full Stack
+1653,66123860c478ba97b06a6f97,DevDynamo,109,Snowflake,excellent,Data
+1654,66123860c478ba97b06a6f98,DevForge,58,React,good,Data
+1655,66123860c478ba97b06a6f98,CodeCraftsman,101,React,excellent,Full Stack
+1656,66123860c478ba97b06a6f99,StackStream,145,Python,good,Data
+1657,66123860c478ba97b06a6f99,CodeCanvas,135,ADF,good,Data
+1658,66123860c478ba97b06a6f9a,FullAnalytica,139,ADF,excellent,Data
+1659,66123860c478ba97b06a6f9a,DataTrekker,88,Angular,average,Data
+1660,66123860c478ba97b06a6f9b,CodeCanvas,94,Power BI,good,Full Stack
+1661,66123860c478ba97b06a6f9b,AnalyzeStack,108,Snowflake,average,Full Stack
+1662,66123860c478ba97b06a6f9c,DataDriven,124,React,excellent,Data
+1663,66123860c478ba97b06a6f9c,TrendTerra,106,ADF,good,Data
+1664,66123860c478ba97b06a6f9d,InsightForge,95,Angular,average,Full Stack
+1665,66123860c478ba97b06a6f9d,DataPulse,122,React,excellent,Full Stack
+1666,66123860c478ba97b06a6f9e,DataVista,91,Tableau,average,Full Stack
+1667,66123860c478ba97b06a6f9e,CodeCrafter,150,Python,good,Full Stack
+1668,66123860c478ba97b06a6f9f,StreamBuilder,97,Javascript,excellent,Data
+1669,66123860c478ba97b06a6f9f,FullTechTrek,145,SQL,good,Full Stack
+1670,66123860c478ba97b06a6fa0,CodeCraftsman,51,Tableau,excellent,Full Stack
+1671,66123860c478ba97b06a6fa0,StackStream,67,Alteryx,average,Full Stack
+1672,66123860c478ba97b06a6fa1,InsightSavvy,78,AWS Lambda,average,Data
+1673,66123860c478ba97b06a6fa1,PixelPulse,75,Tableau,good,Data
+1674,66123860c478ba97b06a6fa2,DataHorizon,119,Alteryx,excellent,Full Stack
+1675,66123860c478ba97b06a6fa2,StreamSavvy,62,Python,average,Full Stack
+1676,66123860c478ba97b06a6fa3,FullInsightForge,50,ADF,average,Data
+1677,66123860c478ba97b06a6fa3,StackSavvyInsight,108,ADF,excellent,Data
+1678,66123860c478ba97b06a6fa4,InsightForge,119,Power BI,good,Full Stack
+1679,66123860c478ba97b06a6fa4,FullDataForge,122,Alteryx,good,Full Stack
+1680,66123860c478ba97b06a6fa5,WebWeave,105,Python,average,Full Stack
+1681,66123860c478ba97b06a6fa5,WebWarp,67,ADF,good,Full Stack
+1682,66123860c478ba97b06a6fa6,FullDataNexus,101,React,average,Full Stack
+1683,66123860c478ba97b06a6fa6,DataByteForge,73,Tableau,average,Data
+1684,66123860c478ba97b06a6fa7,AnalyticsPulse,77,Angular,excellent,Data
+1685,66123860c478ba97b06a6fa7,AnalyzeStack,112,Alteryx,good,Data
+1686,66123860c478ba97b06a6fa8,DataVista,130,Power BI,excellent,Full Stack
+1687,66123860c478ba97b06a6fa8,StackSavvyInsight,119,Power BI,good,Data
+1688,66123861c478ba97b06a6fa9,DataFlowX,57,SQL,good,Full Stack
+1689,66123861c478ba97b06a6fa9,FullTechTrek,144,Angular,excellent,Full Stack
+1690,66123861c478ba97b06a6faa,TrendTrack,50,AWS Lambda,average,Full Stack
+1691,66123861c478ba97b06a6faa,StackScope,71,Tableau,excellent,Full Stack
+1692,66123861c478ba97b06a6fab,DataTrekker,112,ADF,good,Data
+1693,66123861c478ba97b06a6fab,PipelinePioneer,76,Python,good,Data
+1694,66123861c478ba97b06a6fac,InsightForge,126,Snowflake,excellent,Full Stack
+1695,66123861c478ba97b06a6fac,TrendTrack,114,Power BI,excellent,Data
+1696,66123861c478ba97b06a6fad,PipelinePioneer,124,Alteryx,good,Full Stack
+1697,66123861c478ba97b06a6fad,FlowFlex,119,Snowflake,average,Data
+1698,66123861c478ba97b06a6fae,FullTechTrek,78,Angular,excellent,Full Stack
+1699,66123861c478ba97b06a6fae,ByteBridgeX,114,Snowflake,average,Data
+1700,66123861c478ba97b06a6faf,FullStreamSculpt,85,ADF,good,Full Stack
+1701,66123861c478ba97b06a6faf,TrendSpotter,109,Python,good,Data
+1702,66123861c478ba97b06a6fb0,AnalyzeAll,104,Javascript,average,Data
+1703,66123861c478ba97b06a6fb0,StreamSavvy,121,SQL,excellent,Data
+1704,66123861c478ba97b06a6fb1,DataPulse,54,ADF,good,Full Stack
+1705,66123861c478ba97b06a6fb1,DevDynamo,140,Python,excellent,Data
+1706,66123861c478ba97b06a6fb2,AnalyticaPro,112,Javascript,average,Full Stack
+1707,66123861c478ba97b06a6fb2,AnalyticsPulse,87,Javascript,excellent,Full Stack
+1708,66123861c478ba97b06a6fb3,InsightGenius,135,React,good,Data
+1709,66123861c478ba97b06a6fb3,DataPulse,72,Python,excellent,Data
+1710,66123861c478ba97b06a6fb4,TrendTerra,124,Python,average,Data
+1711,66123861c478ba97b06a6fb4,CodeCraftsman,56,Tableau,good,Data
+1712,66123862c478ba97b06a6fb5,DataDynamo,82,SQL,excellent,Full Stack
+1713,66123862c478ba97b06a6fb5,ByteBridgeData,133,Power BI,good,Data
+1714,66123862c478ba97b06a6fb6,FullStreamSculpt,60,AWS Lambda,average,Data
+1715,66123862c478ba97b06a6fb6,DataByteForge,115,Alteryx,good,Data
+1716,66123862c478ba97b06a6fb7,AnalyzeWise,75,Snowflake,good,Data
+1717,66123862c478ba97b06a6fb7,AnalyzeStack,68,Python,average,Data
+1718,66123862c478ba97b06a6fb8,InsightStack,129,Python,excellent,Full Stack
+1719,66123862c478ba97b06a6fb8,PipelinePro,144,SQL,excellent,Data
+1720,66123862c478ba97b06a6fb9,StackSavvyInsight,89,Javascript,excellent,Data
+1721,66123862c478ba97b06a6fb9,InsightStream,143,ADF,good,Data
+1722,66123862c478ba97b06a6fba,AnalyzeWise,112,AWS Lambda,average,Data
+1723,66123862c478ba97b06a6fba,StackScope,133,Alteryx,average,Full Stack
+1724,66123862c478ba97b06a6fbb,ByteBridgeData,118,Python,good,Full Stack
+1725,66123862c478ba97b06a6fbb,AnalytixPro,60,Snowflake,average,Data
+1726,66123862c478ba97b06a6fbc,Insightify,72,SQL,good,Full Stack
+1727,66123862c478ba97b06a6fbc,ByteBridgeX,123,Snowflake,average,Data
+1728,66123862c478ba97b06a6fbd,AppArchitect,139,React,good,Data
+1729,66123862c478ba97b06a6fbd,AppAlchemy,137,Python,average,Full Stack
+1730,66123862c478ba97b06a6fbe,FullDataInsight,67,Power BI,good,Full Stack
+1731,66123862c478ba97b06a6fbe,StreamSculpt,95,React,average,Data
+1732,66123862c478ba97b06a6fbf,DataCraftsman,77,AWS Lambda,excellent,Full Stack
+1733,66123862c478ba97b06a6fbf,InsightBuilder,92,Javascript,excellent,Full Stack
+1734,66123862c478ba97b06a6fc0,PixelForge,73,Angular,excellent,Data
+1735,66123862c478ba97b06a6fc0,ByteBridgeData,96,SQL,excellent,Full Stack
+1736,66123862c478ba97b06a6fc1,StackCraftsmanData,91,Tableau,good,Data
+1737,66123862c478ba97b06a6fc1,ETLArchitect,94,Power BI,average,Full Stack
+1738,66123862c478ba97b06a6fc2,DataDriven,140,Angular,good,Full Stack
+1739,66123862c478ba97b06a6fc2,TrendTerra,131,Python,excellent,Data
+1740,66123862c478ba97b06a6fc3,CodeCraftsmanData,88,SQL,excellent,Full Stack
+1741,66123862c478ba97b06a6fc3,FullDataNexus,78,AWS Lambda,excellent,Data
+1742,66123862c478ba97b06a6fc4,PipelinePioneer,81,ADF,average,Data
+1743,66123862c478ba97b06a6fc4,FullDataInsight,57,Javascript,average,Full Stack
+1744,66123862c478ba97b06a6fc5,StackScope,139,Javascript,average,Data
+1745,66123862c478ba97b06a6fc5,AnalyticsPulse,110,AWS Lambda,good,Data
+1746,66123862c478ba97b06a6fc6,InsightForgeX,95,SQL,excellent,Data
+1747,66123862c478ba97b06a6fc6,DataCraftsmanX,137,Javascript,excellent,Full Stack
+1748,66123862c478ba97b06a6fc7,DataWarp,107,Tableau,good,Full Stack
+1749,66123862c478ba97b06a6fc7,InsightSavvy,63,Tableau,good,Data
+1750,66123863c478ba97b06a6fc8,DataScope,103,ADF,average,Data
+1751,66123863c478ba97b06a6fc8,TrendTrack,54,Power BI,good,Data
+1752,66123863c478ba97b06a6fc9,DataScope,75,ADF,excellent,Data
+1753,66123863c478ba97b06a6fc9,DataSavvyStack,140,Javascript,average,Data
+1754,66123863c478ba97b06a6fca,Insightify,60,Python,good,Data
+1755,66123863c478ba97b06a6fca,InsightStack,138,SQL,good,Data
+1756,66123863c478ba97b06a6fcb,StackForge,84,Alteryx,excellent,Full Stack
+1757,66123863c478ba97b06a6fcb,FullInsightForge,61,Javascript,good,Data
+1758,66123863c478ba97b06a6fcc,DataVista,90,AWS Lambda,excellent,Full Stack
+1759,66123863c478ba97b06a6fcc,DataSculptor,65,Javascript,good,Full Stack
+1760,66123863c478ba97b06a6fcd,ByteBridge,109,React,excellent,Full Stack
+1761,66123863c478ba97b06a6fcd,PipelinePro,144,Python,good,Full Stack
+1762,66123863c478ba97b06a6fce,DataPulse,90,Python,excellent,Full Stack
+1763,66123863c478ba97b06a6fce,AnalyzeStream,65,Tableau,excellent,Data
+1764,66123863c478ba97b06a6fcf,AnalyzeByte,119,Power BI,excellent,Full Stack
+1765,66123863c478ba97b06a6fcf,CodeCanvas,95,Python,average,Full Stack
+1766,66123863c478ba97b06a6fd0,DataPulse,130,AWS Lambda,excellent,Data
+1767,66123863c478ba97b06a6fd0,InsightStream,65,Power BI,excellent,Data
+1768,66123863c478ba97b06a6fd1,DataDynamo,52,SQL,excellent,Data
+1769,66123863c478ba97b06a6fd1,CodeCanvas,90,Javascript,good,Data
+1770,66123863c478ba97b06a6fd2,DevForge,70,Tableau,average,Data
+1771,66123863c478ba97b06a6fd2,FullAnalytica,141,Angular,excellent,Full Stack
+1772,66123863c478ba97b06a6fd3,AnalyzeByte,84,Angular,excellent,Full Stack
+1773,66123863c478ba97b06a6fd3,InsightBuilder,91,ADF,good,Data
+1774,66123863c478ba97b06a6fd4,AnalyzeStack,144,Tableau,excellent,Full Stack
+1775,66123863c478ba97b06a6fd4,DataSculptor,145,Python,average,Data
+1776,66123863c478ba97b06a6fd5,DataByteForge,136,AWS Lambda,excellent,Data
+1777,66123863c478ba97b06a6fd5,DataDynamo,147,React,average,Data
+1778,66123863c478ba97b06a6fd6,StreamSculpt,109,AWS Lambda,average,Data
+1779,66123863c478ba97b06a6fd6,DataHorizon,101,ADF,excellent,Data
+1780,66123863c478ba97b06a6fd7,ByteBridgeX,54,Snowflake,average,Full Stack
+1781,66123863c478ba97b06a6fd7,DataVista,132,Tableau,excellent,Data
+1782,66123863c478ba97b06a6fd8,CodeCompass,100,Snowflake,average,Data
+1783,66123863c478ba97b06a6fd8,TechTrek,128,Power BI,average,Data
+1784,66123863c478ba97b06a6fd9,DataDynamo,73,SQL,good,Full Stack
+1785,66123863c478ba97b06a6fd9,PixelPulse,91,Python,average,Data
+1786,66123864c478ba97b06a6fda,AnalyticsPulse,105,Power BI,good,Data
+1787,66123864c478ba97b06a6fda,ETLGenius,140,SQL,average,Full Stack
+1788,66123864c478ba97b06a6fdb,AnalyzeByte,128,SQL,good,Full Stack
+1789,66123864c478ba97b06a6fdb,AnalyticsPulse,96,Alteryx,good,Data
+1790,66123864c478ba97b06a6fdc,TechTrek,83,SQL,average,Data
+1791,66123864c478ba97b06a6fdc,StackScope,81,Javascript,average,Data
+1792,66123864c478ba97b06a6fdd,StackForge,51,Javascript,good,Data
+1793,66123864c478ba97b06a6fdd,InsightStream,74,Tableau,average,Full Stack
+1794,66123864c478ba97b06a6fde,DataDevForge,56,Snowflake,average,Data
+1795,66123864c478ba97b06a6fde,DataCraftsman,128,Javascript,good,Full Stack
+1796,66123864c478ba97b06a6fdf,StreamSmith,114,Snowflake,good,Full Stack
+1797,66123864c478ba97b06a6fdf,DataFlowX,95,React,good,Full Stack
+1798,66123864c478ba97b06a6fe0,ETLGenius,87,React,average,Full Stack
+1799,66123864c478ba97b06a6fe0,DataCraftsman,130,Snowflake,average,Full Stack
+1800,66123864c478ba97b06a6fe1,PipelinePro,69,AWS Lambda,good,Data
+1801,66123864c478ba97b06a6fe1,DataForgeX,68,Alteryx,excellent,Data
+1802,66123864c478ba97b06a6fe2,DataSavvyStack,127,Javascript,good,Full Stack
+1803,66123864c478ba97b06a6fe2,DataHorizon,73,SQL,good,Full Stack
+1804,66123864c478ba97b06a6fe3,StackSavvy,144,Tableau,excellent,Data
+1805,66123864c478ba97b06a6fe3,StackStream,81,SQL,average,Full Stack
+1806,66123864c478ba97b06a6fe4,DataPulse,87,AWS Lambda,average,Full Stack
+1807,66123864c478ba97b06a6fe4,DataNexus,109,AWS Lambda,excellent,Full Stack
+1808,66123864c478ba97b06a6fe5,FullAnalytica,121,AWS Lambda,good,Full Stack
+1809,66123864c478ba97b06a6fe5,DevForge,54,Tableau,excellent,Full Stack
+1810,66123864c478ba97b06a6fe6,CodeCraftsmanX,100,Python,excellent,Data
+1811,66123864c478ba97b06a6fe6,AnalytixPro,91,React,average,Data
+1812,66123864c478ba97b06a6fe7,FullDataForge,94,Javascript,average,Full Stack
+1813,66123864c478ba97b06a6fe7,InsightStack,96,Javascript,average,Data
+1814,66123864c478ba97b06a6fe8,DataMason,131,Power BI,average,Data
+1815,66123864c478ba97b06a6fe8,StreamStack,116,Angular,excellent,Data
+1816,66123864c478ba97b06a6fe9,StreamStack,83,React,average,Data
+1817,66123864c478ba97b06a6fe9,DataNexus,79,Python,excellent,Full Stack
+1818,66123864c478ba97b06a6fea,StreamStack,78,Tableau,good,Full Stack
+1819,66123864c478ba97b06a6fea,ByteBridgeX,55,Power BI,good,Data
+1820,66123865c478ba97b06a6feb,StackStream,148,Javascript,good,Data
+1821,66123865c478ba97b06a6feb,AnalyzeStack,112,ADF,excellent,Data
+1822,66123865c478ba97b06a6fec,DataWarp,105,Power BI,average,Full Stack
+1823,66123865c478ba97b06a6fec,DataCraftsman,100,AWS Lambda,excellent,Data
+1824,66123865c478ba97b06a6fed,CodeCompass,139,ADF,average,Full Stack
+1825,66123865c478ba97b06a6fed,DevForge,66,Alteryx,good,Full Stack
+1826,66123865c478ba97b06a6fee,AnalyzeStream,64,React,good,Data
+1827,66123865c478ba97b06a6fee,FullTechTrek,121,SQL,good,Full Stack
+1828,66123865c478ba97b06a6fef,CodeCraftsmanData,86,Javascript,excellent,Full Stack
+1829,66123865c478ba97b06a6fef,FullInsightForge,78,Power BI,good,Data
+1830,66123865c478ba97b06a6ff0,CodeCraftsmanInsight,118,Javascript,average,Data
+1831,66123865c478ba97b06a6ff0,FullDataNexus,135,Power BI,good,Data
+1832,66123865c478ba97b06a6ff1,DataByteForge,140,Alteryx,good,Data
+1833,66123865c478ba97b06a6ff1,PixelPioneer,50,Power BI,excellent,Full Stack
+1834,66123865c478ba97b06a6ff2,FullStackInsight,56,Alteryx,average,Full Stack
+1835,66123865c478ba97b06a6ff2,FullStreamSculpt,60,Tableau,excellent,Data
+1836,66123865c478ba97b06a6ff3,ETLArchitect,126,Alteryx,excellent,Full Stack
+1837,66123865c478ba97b06a6ff3,DataSavvyStack,138,React,average,Full Stack
+1838,66123865c478ba97b06a6ff4,FlowForge,77,Alteryx,good,Data
+1839,66123865c478ba97b06a6ff4,PipelinePro,95,ADF,good,Data
+1840,66123865c478ba97b06a6ff5,ETLArchitect,89,Alteryx,excellent,Data
+1841,66123865c478ba97b06a6ff5,DataSavvyInsight,97,Tableau,average,Full Stack
+1842,66123865c478ba97b06a6ff6,PipelinePro,59,Python,average,Data
+1843,66123865c478ba97b06a6ff6,InsightStreamX,143,Angular,good,Data
+1844,66123865c478ba97b06a6ff7,FullInsightForge,74,Angular,good,Data
+1845,66123865c478ba97b06a6ff7,AnalyzeAll,62,SQL,good,Data
+1846,66123865c478ba97b06a6ff8,CodeCraftsmanInsight,137,Snowflake,average,Full Stack
+1847,66123865c478ba97b06a6ff8,DataForgeX,108,Alteryx,average,Data
+1848,66123865c478ba97b06a6ff9,WebWizardry,76,AWS Lambda,excellent,Full Stack
+1849,66123865c478ba97b06a6ff9,PipelinePioneer,105,Tableau,excellent,Full Stack
+1850,66123865c478ba97b06a6ffa,StreamStack,137,ADF,excellent,Data
+1851,66123865c478ba97b06a6ffa,AnalyzeWise,127,SQL,good,Data
+1852,66123866c478ba97b06a6ffb,StreamBuilder,121,Python,average,Full Stack
+1853,66123866c478ba97b06a6ffb,FullDataInsight,52,ADF,average,Data
+1854,66123866c478ba97b06a6ffc,StreamSavvy,145,Tableau,excellent,Data
+1855,66123866c478ba97b06a6ffc,AnalyticaPro,98,SQL,average,Data
+1856,66123866c478ba97b06a6ffd,AnalyzeStack,55,AWS Lambda,good,Full Stack
+1857,66123866c478ba97b06a6ffd,DataWarp,64,Python,average,Data
+1858,66123866c478ba97b06a6ffe,ByteBlast,52,Snowflake,excellent,Data
+1859,66123866c478ba97b06a6ffe,DataForge,77,Snowflake,excellent,Data
+1860,66123866c478ba97b06a6fff,PixelForge,90,React,average,Data
+1861,66123866c478ba97b06a6fff,TrendTrek,133,Python,average,Data
+1862,66123866c478ba97b06a7000,Insightify,101,Tableau,good,Data
+1863,66123866c478ba97b06a7000,AnalyticsPulse,148,Snowflake,excellent,Full Stack
+1864,66123866c478ba97b06a7001,DataDevForge,54,ADF,excellent,Full Stack
+1865,66123866c478ba97b06a7001,DataCraftsman,118,React,average,Data
+1866,66123866c478ba97b06a7002,StackSpotter,83,SQL,good,Full Stack
+1867,66123866c478ba97b06a7002,TechTrek,115,Tableau,average,Data
+1868,66123866c478ba97b06a7003,ByteBridgeData,114,Javascript,good,Full Stack
+1869,66123866c478ba97b06a7003,ByteBridgeX,136,Power BI,average,Full Stack
+1870,66123866c478ba97b06a7004,TechTrek,145,Python,average,Data
+1871,66123866c478ba97b06a7004,FullStreamSculpt,74,Alteryx,excellent,Full Stack
+1872,66123866c478ba97b06a7005,StreamBuilder,100,Tableau,good,Data
+1873,66123866c478ba97b06a7005,ETLGenius,127,Angular,average,Data
+1874,66123866c478ba97b06a7006,FullDataNexus,74,Snowflake,excellent,Data
+1875,66123866c478ba97b06a7006,CodeCraftsmanX,114,Alteryx,excellent,Full Stack
+1876,66123866c478ba97b06a7007,StreamSculpt,114,Tableau,excellent,Data
+1877,66123866c478ba97b06a7007,AppAlchemy,130,Tableau,average,Data
+1878,66123866c478ba97b06a7008,StackForge,63,ADF,average,Full Stack
+1879,66123866c478ba97b06a7008,DataSavvyStack,63,ADF,average,Full Stack
+1880,66123866c478ba97b06a7009,InsightStack,149,Alteryx,average,Data
+1881,66123866c478ba97b06a7009,DataTrekker,138,AWS Lambda,excellent,Full Stack
+1882,66123866c478ba97b06a700a,FullDataInsight,71,AWS Lambda,average,Full Stack
+1883,66123866c478ba97b06a700a,StreamBuilder,117,AWS Lambda,good,Full Stack
+1884,66123866c478ba97b06a700b,StreamSmith,99,Alteryx,average,Data
+1885,66123866c478ba97b06a700b,DataSculptor,110,Alteryx,average,Data
+1886,66123867c478ba97b06a700c,ByteBlast,148,ADF,excellent,Data
+1887,66123867c478ba97b06a700c,CodeCraftsmanX,78,AWS Lambda,good,Full Stack
+1888,66123867c478ba97b06a700d,AnalyzeByte,70,SQL,excellent,Data
+1889,66123867c478ba97b06a700d,InsightStreamX,117,Snowflake,average,Full Stack
+1890,66123867c478ba97b06a700e,StackStream,120,Python,excellent,Data
+1891,66123867c478ba97b06a700e,TrendTerra,109,SQL,excellent,Data
+1892,66123867c478ba97b06a700f,DataStack,100,Alteryx,good,Full Stack
+1893,66123867c478ba97b06a700f,InsightGenius,86,Alteryx,good,Full Stack
+1894,66123867c478ba97b06a7010,StackStream,126,React,excellent,Data
+1895,66123867c478ba97b06a7010,StackSavvyInsight,66,React,excellent,Full Stack
+1896,66123867c478ba97b06a7011,DataTrekker,120,React,excellent,Full Stack
+1897,66123867c478ba97b06a7011,StackSavvyInsight,80,SQL,average,Data
+1898,66123867c478ba97b06a7012,DataHorizon,150,Angular,good,Data
+1899,66123867c478ba97b06a7012,DataForgeX,148,AWS Lambda,excellent,Full Stack
+1900,66123867c478ba97b06a7013,DataScope,58,ADF,excellent,Full Stack
+1901,66123867c478ba97b06a7013,FullDataForge,133,Javascript,good,Data
+1902,66123867c478ba97b06a7014,AppAlchemy,93,Angular,excellent,Data
+1903,66123867c478ba97b06a7014,AnalyzeRight,73,AWS Lambda,excellent,Data
+1904,66123867c478ba97b06a7015,StackSavvy,92,React,good,Data
+1905,66123867c478ba97b06a7015,PixelPulse,108,React,average,Data
+1906,66123867c478ba97b06a7016,CodeCraftsmanData,134,Javascript,excellent,Full Stack
+1907,66123867c478ba97b06a7016,FullTechTrek,150,SQL,average,Data
+1908,66123867c478ba97b06a7017,ETLArchitect,106,Python,excellent,Data
+1909,66123867c478ba97b06a7017,AnalyzeByte,68,ADF,good,Data
+1910,66123867c478ba97b06a7018,StackStream,141,Tableau,good,Data
+1911,66123867c478ba97b06a7018,CodeCrafter,73,Python,excellent,Data
+1912,66123867c478ba97b06a7019,DataForge,108,ADF,good,Data
+1913,66123867c478ba97b06a7019,InsightSavvy,66,SQL,good,Data
+1914,66123867c478ba97b06a701a,AnalytixPro,97,React,average,Data
+1915,66123867c478ba97b06a701a,StackSculptor,105,Tableau,excellent,Full Stack
+1916,66123867c478ba97b06a701b,DataStack,113,Python,good,Full Stack
+1917,66123867c478ba97b06a701b,InsightStreamX,106,Alteryx,good,Data
+1918,66123867c478ba97b06a701c,StackCraftsmanData,87,Snowflake,good,Full Stack
+1919,66123867c478ba97b06a701c,TechTrek,83,Python,average,Data
+1920,66123867c478ba97b06a701d,FullDataNexus,61,Javascript,good,Data
+1921,66123867c478ba97b06a701d,DataStacker,105,Alteryx,excellent,Data
+1922,66123867c478ba97b06a701e,TechTrek,68,ADF,excellent,Full Stack
+1923,66123867c478ba97b06a701e,DataFlowX,82,Tableau,average,Full Stack
+1924,66123868c478ba97b06a701f,ByteBridgeData,113,Angular,average,Full Stack
+1925,66123868c478ba97b06a701f,DataFlowX,68,Tableau,good,Data
+1926,66123868c478ba97b06a7020,DataPulse,109,Alteryx,average,Data
+1927,66123868c478ba97b06a7020,DataDevForge,90,Power BI,good,Data
+1928,66123868c478ba97b06a7021,DataForge,50,React,excellent,Full Stack
+1929,66123868c478ba97b06a7021,PipelinePioneer,80,Angular,average,Data
+1930,66123868c478ba97b06a7022,AnalyzeStream,122,SQL,excellent,Data
+1931,66123868c478ba97b06a7022,FullDataForge,88,AWS Lambda,average,Data
+1932,66123868c478ba97b06a7023,AnalyzeStack,133,SQL,good,Full Stack
+1933,66123868c478ba97b06a7023,DataHorizon,53,Alteryx,average,Data
+1934,66123868c478ba97b06a7024,DataCraftsmanX,71,Tableau,good,Full Stack
+1935,66123868c478ba97b06a7024,StackStream,89,Tableau,good,Data
+1936,66123868c478ba97b06a7025,InsightForge,74,SQL,excellent,Data
+1937,66123868c478ba97b06a7025,DataTrekker,107,Angular,excellent,Full Stack
+1938,66123868c478ba97b06a7026,ByteBlast,64,React,excellent,Full Stack
+1939,66123868c478ba97b06a7026,CodeCrafter,135,Angular,average,Full Stack
+1940,66123868c478ba97b06a7027,DataForgeX,148,Angular,good,Full Stack
+1941,66123868c478ba97b06a7027,AnalyzeWise,147,Tableau,average,Full Stack
+1942,66123868c478ba97b06a7028,AppArchitect,70,Snowflake,average,Full Stack
+1943,66123868c478ba97b06a7028,TechTerra,85,Alteryx,good,Data
+1944,66123868c478ba97b06a7029,PixelPioneer,81,Snowflake,good,Full Stack
+1945,66123868c478ba97b06a7029,FullTechTrek,150,Python,average,Data
+1946,66123868c478ba97b06a702a,StackSavvyInsight,146,Power BI,excellent,Data
+1947,66123868c478ba97b06a702a,WebWarp,133,Tableau,average,Data
+1948,66123868c478ba97b06a702b,StreamSculpt,124,Snowflake,excellent,Data
+1949,66123868c478ba97b06a702b,ByteBlast,71,SQL,good,Full Stack
+1950,66123869c478ba97b06a702c,DataSculptor,144,Angular,good,Data
+1951,66123869c478ba97b06a702c,DataCraftsmanX,134,Angular,good,Full Stack
+1952,66123869c478ba97b06a702d,DevDynamo,82,Python,good,Full Stack
+1953,66123869c478ba97b06a702d,CodeCraftsmanInsight,136,Python,excellent,Data
+1954,66123869c478ba97b06a702e,AnalyzeWise,77,Javascript,good,Full Stack
+1955,66123869c478ba97b06a702e,FullTechTrek,119,Angular,good,Full Stack
+1956,66123869c478ba97b06a702f,ByteBridgeX,108,Python,good,Data
+1957,66123869c478ba97b06a702f,DataFlowX,121,Alteryx,excellent,Full Stack
+1958,66123869c478ba97b06a7030,StreamSavvy,141,Javascript,good,Data
+1959,66123869c478ba97b06a7030,ByteBridgeData,75,Power BI,excellent,Data
+1960,66123869c478ba97b06a7031,ByteBlast,52,Tableau,good,Data
+1961,66123869c478ba97b06a7031,AnalyticaPro,139,Angular,excellent,Data
+1962,66123869c478ba97b06a7032,StackSavvyInsight,65,Snowflake,average,Data
+1963,66123869c478ba97b06a7032,CodeCraftsmanData,118,Snowflake,average,Data
+1964,66123869c478ba97b06a7033,DataForgeX,90,SQL,excellent,Full Stack
+1965,66123869c478ba97b06a7033,CodeCraftsmanData,61,Angular,excellent,Data
+1966,66123869c478ba97b06a7034,StreamStack,73,Power BI,excellent,Data
+1967,66123869c478ba97b06a7034,StackStream,129,AWS Lambda,good,Data
+1968,66123869c478ba97b06a7035,StreamStack,139,React,excellent,Full Stack
+1969,66123869c478ba97b06a7035,DataByteForge,122,React,average,Full Stack
+1970,66123869c478ba97b06a7036,DataHorizon,142,ADF,average,Data
+1971,66123869c478ba97b06a7036,StackCraftsmanData,52,ADF,excellent,Full Stack
+1972,66123869c478ba97b06a7037,CodeCompass,85,ADF,good,Full Stack
+1973,66123869c478ba97b06a7037,CodeCraftsmanData,133,React,good,Data
+1974,66123869c478ba97b06a7038,DataSavvyStack,143,Tableau,excellent,Full Stack
+1975,66123869c478ba97b06a7038,InsightStreamX,84,Power BI,average,Full Stack
+1976,66123869c478ba97b06a7039,AnalyzeWise,121,Snowflake,average,Data
+1977,66123869c478ba97b06a7039,ByteBridgeData,54,Power BI,excellent,Data
+1978,66123869c478ba97b06a703a,DataNexus,99,Alteryx,good,Full Stack
+1979,66123869c478ba97b06a703a,StreamStack,84,Alteryx,average,Data
+1980,6612386ac478ba97b06a703b,PixelForge,126,React,excellent,Full Stack
+1981,6612386ac478ba97b06a703b,InsightStreamX,56,Snowflake,average,Full Stack
+1982,6612386ac478ba97b06a703c,InsightStream,148,Angular,excellent,Data
+1983,6612386ac478ba97b06a703c,FullInsightForge,73,ADF,good,Data
+1984,6612386ac478ba97b06a703d,InsightForge,114,Alteryx,excellent,Data
+1985,6612386ac478ba97b06a703d,AppAlchemy,143,Angular,excellent,Data
+1986,6612386ac478ba97b06a703e,TrendTrack,61,Power BI,excellent,Full Stack
+1987,6612386ac478ba97b06a703e,InsightSavvy,130,Javascript,good,Full Stack
+1988,6612386ac478ba97b06a703f,DataForge,92,Javascript,excellent,Data
+1989,6612386ac478ba97b06a703f,StackSpotter,79,Angular,excellent,Full Stack
+1990,6612386ac478ba97b06a7040,WebWarp,79,Angular,average,Full Stack
+1991,6612386ac478ba97b06a7040,DevDynamo,134,ADF,excellent,Data
+1992,6612386ac478ba97b06a7041,DataForgeX,59,Power BI,good,Data
+1993,6612386ac478ba97b06a7041,DataByteForge,53,Alteryx,average,Data
+1994,6612386ac478ba97b06a7042,InsightStreamX,94,SQL,good,Data
+1995,6612386ac478ba97b06a7042,TrendTrack,75,React,good,Full Stack
+1996,6612386ac478ba97b06a7043,InsightStream,133,AWS Lambda,average,Data
+1997,6612386ac478ba97b06a7043,DataStacker,146,AWS Lambda,excellent,Full Stack
+1998,6612386ac478ba97b06a7044,StreamStack,135,React,excellent,Data
+1999,6612386ac478ba97b06a7044,StackSavvyInsight,64,Python,average,Data

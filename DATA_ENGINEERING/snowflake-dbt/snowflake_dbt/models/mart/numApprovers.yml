@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: numApprovers
+    description: Gives the number of approvers and non-approvers among the whole employees.
+    columns:
+      - name: ISAPPROVER
+        description: Gives a boolean value (true/false).
+        tests:
+          - not_null
+          - unique
+      - name: NUMBER_OF_EMPLOYEES
+        description: Gives the frequency of employees who are either approever or non-approver.
+        tests:
+          - not_null

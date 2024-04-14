@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: jman
+    database: JMAN_FINAL_PROJECT
+    schema: PUBLIC
+    tables:
+      - name: DATAUSERS
+      - name: DATASKILLS
+      - name: DATAPROJECTS
+      - name: DATACERTIFICATES

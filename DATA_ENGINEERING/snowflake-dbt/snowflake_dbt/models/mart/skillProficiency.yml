@@ -1,0 +1,18 @@
+version: 2
+
+models:
+  - name: skillProficiency
+    description: Gives the frequency of each proficiency category of all the skills among all the employees.
+    columns:
+      - name: SKILL
+        description: Gives the name of the skill.
+        tests:
+          - not_null
+      - name: PROFICIENCY
+        description: Gives the proficiency of the skill.
+        tests:
+          - not_null
+      - name: FREQUNECY
+        description: Gives the frequency of the skill.
+        tests:
+          - not_null

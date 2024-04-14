@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: certificateOrg
+    description: Gives us the information that from which organization most of the certificates are done by employees.
+    columns:
+      - name: ORGANIZATION
+        description: The name of the organization.
+        tests:
+          - not_null
+          - unique
+      - name: NUMBER_OF_CERTIFICATES
+        description: Gives the number numeber of certificates
+        tests:
+          - not_null

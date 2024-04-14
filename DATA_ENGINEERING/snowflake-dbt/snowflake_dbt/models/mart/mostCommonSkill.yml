@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: mostCommomSkill
+    description: Gives the frequency of each skill among all the employees.
+    columns:
+      - name: SKILL
+        description: Gives the name of the skill.
+        tests:
+          - not_null
+          - unique
+      - name: COUNT_SKILL
+        description: Gives the frequency of each skill among all the employees.
+        tests:
+          - not_null

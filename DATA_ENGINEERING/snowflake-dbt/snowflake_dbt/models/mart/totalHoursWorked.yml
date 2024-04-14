@@ -1,0 +1,18 @@
+version: 2
+
+models:
+  - name: totalHoursWorked
+    description: Gives the maximum hours worked by an individual in their respective roles.
+    columns:
+      - name: EMP_NAME
+        description: Gives the name of the employee.
+        tests:
+          - not_null
+      - name: EMP_ROLE
+        description: Gives the role of the employee.
+        tests:
+          - not_null
+      - name: TOTAL_HOURS_ON_PROJECT
+        description: Gives the total hous worked by an employee
+        tests:
+          - not_null

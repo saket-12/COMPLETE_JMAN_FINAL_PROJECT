@@ -1,0 +1,19 @@
+version: 2
+
+models:
+  - name: dataAndFullstackWork
+    description: Gives the total hours and and total projects in Data and FullStack domain.
+    columns:
+      - name: DOMAIN
+        description: Gives the domain name (Data/FullStack).
+        tests:
+          - not_null
+          - unique
+      - name: TOTAL_HOURS
+        description: Gives the total hours worked by all employees in a a particular domain.
+        tests:
+          - not_null
+      - name: NUMBER_OF_PROJECTS
+        description: Gives the number of projects done in a particular domain.
+        tests:
+          - not_null

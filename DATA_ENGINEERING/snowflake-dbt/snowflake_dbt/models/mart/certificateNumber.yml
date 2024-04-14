@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: certificateNumber
+    description: Gives top 10 most common certificates among employees along with their frequency.
+    columns:
+      - name: CERTIFICATE
+        description: Gives the name of the certificate.
+        tests:
+          - not_null
+          - unique
+      - name: NUMBER_HELD
+        description: Gives the frequency of that certificte.
+        tests:
+          - not_null
